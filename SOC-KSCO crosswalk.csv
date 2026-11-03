@@ -1,0 +1,1228 @@
+﻿kscoCode,kscoTitle,kscoTitleEng,similarity,socCode,socTitle
+11101,국회의원,Central Government Legislators,0.734488424,11-1031,Legislators
+11102,지방의회 의원 및 교육 의원,Local Government Legislators and Members of Board of Education,0.655839171,11-1031,Legislators
+11103,중앙정부 고위 공무원,Senior Government Officials in Central Government,0.536955134,11-9039,"Education Administrators, All Other"
+11104,지방정부 고위 공무원,Senior Government Officials in Local Government,0.576702279,11-9039,"Education Administrators, All Other"
+11105,공공 기관 임원,Public Institution Officials,0.611546013,11-9039,"Education Administrators, All Other"
+11106,정당 및 특수 단체 임원,Political-Party and Special Organizations Officials,0.58778036,19-3094,Political Scientists
+11201,기업 대표이사,Chief Executive Officers,0.918947148,11-1011,Chief Executives
+11202,기업 고위 임원,Senior Corporate Officers,0.693479143,11-1011,Chief Executives
+12110,정부행정 관리자,Government Administration Managers,0.779864317,11-3012,Administrative Services Managers
+12121,총무 및 인사 관리자,General and Human Resources Managers,0.86167467,11-1021,General and Operations Managers
+12122,기획 관리자,Strategy and Planning Managers,0.620481627,13-1082,Project Management Specialists
+12123,재무 관리자,Financial Managers,1,11-3031,Financial Managers
+12124,자재 및 구매 관리자,"Stock, Supply and Distribution Managers",0.731108123,11-3071,"Transportation, Storage, and Distribution Managers"
+12129,그 외 경영 지원 관리자,Business Administration Managers n.e.c.,0.67481323,13-1199,"Business Operations Specialists, All Other"
+12201,마케팅 관리자,Marketing Managers,1,11-2021,Marketing Managers
+12202,광고 및 홍보 관리자,Advertising and Public Relations Managers,0.848551614,11-2032,Public Relations Managers
+12209,그 외 마케팅 및 광고·홍보 관리자,"Marketing, Advertising and Public Relations Managers n.e.c.",0.739940949,11-2011,Advertising and Promotions Managers
+13111,인문과학 연구 관리자,Liberal Arts Research Managers,0.658170982,11-9121,Natural Sciences Managers
+13112,사회과학 연구 관리자,Social Science Research Managers,0.692398432,11-9121,Natural Sciences Managers
+13113,생명 및 자연과학 연구 관리자,Life and Natural Science Research Managers,0.846015,11-9121,Natural Sciences Managers
+13114,공학 연구 관리자,Engineering Research Managers,0.699489318,11-9041,Architectural and Engineering Managers
+13119,그 외 연구 관리자,Research Managers n.e.c.,0.671338456,11-9121,Natural Sciences Managers
+13121,대학교 총장 및 대학 학장,University Presidents and Deans,0.578818262,11-9039,"Education Administrators, All Other"
+13122,중·고등학교 교장 및 교감,Middle School and High School Principals and Associate Principals,0.708240286,11-9032,"Education Administrators, Kindergarten through Secondary"
+13123,초등학교 교장 및 교감,Elementary School Principals and Associate Principals,0.694010298,11-9032,"Education Administrators, Kindergarten through Secondary"
+13124,유치원 원장,Kindergarten Principals,0.700087759,25-2055,"Special Education Teachers, Kindergarten"
+13129,그 외 교육 관련 관리자,Education Managers n.e.c.,0.768489683,11-9032,"Education Administrators, Kindergarten through Secondary"
+13131,법률 관리자,Legal Managers,0.690743564,23-1011,Lawyers
+13132,경찰 관리자,Police Managers,0.72790643,33-1012,First-Line Supervisors of Police and Detectives
+13133,소방 관리자,Fire Fighting Managers,0.762008734,33-1021,First-Line Supervisors of Firefighting and Prevention Workers
+13134,교도 관리자,Prison Guard Service Managers,0.697831616,33-3012,Correctional Officers and Jailers
+13201,보험 관리자,Insurance Managers,0.805921799,13-2053,Insurance Underwriters
+13202,금융 관리자,Finance Managers,0.959083333,11-3031,Financial Managers
+13310,보건 의료 관련 관리자,Health and Medical Service Managers,0.983780446,11-9111,Medical and Health Services Managers
+13320,사회복지 관련 관리자,Social Welfare Service Managers,0.829797127,11-9151,Social and Community Service Managers
+13401,공연·전시 예술 관련 관리자,Performing and Displaying Arts Related Managers,0.661251281,13-1011,"Agents and Business Managers of Artists, Performers, and Athletes"
+13402,디자인 관련 관리자,Design Related Managers,0.657088292,11-9041,Architectural and Engineering Managers
+13403,방송·출판 및 영상 관련 관리자,"Broadcasting, Publishing and Video Related Managers",0.692615368,11-2011,Advertising and Promotions Managers
+13501,컴퓨터 하드웨어 개발 관리자,Computer Hardware Development Managers,0.66402592,17-2061,Computer Hardware Engineers
+13502,컴퓨터 소프트웨어 개발 관리자,Computer Software Development Managers,0.743701782,15-1252,Software Developers
+13503,컴퓨터 운영 관리자,Computer Operations Managers,0.818584108,11-3021,Computer and Information Systems Managers
+13504,통신 관리자,Telecommunications Managers,0.712610681,43-2099,"Communications Equipment Operators, All Other"
+13509,그 외 정보 통신 관련 관리자,Information and Communications Related Managers n.e.c.,0.711633178,11-3021,Computer and Information Systems Managers
+13901,시장 및 여론 조사 관리자,Market Survey and Public Opinion Survey Managers,0.70019598,19-3022,Survey Researchers
+13902,부동산 및 임대업 관리자,"Real Estate, Rental and Leasing Managers",0.782613591,11-9141,"Property, Real Estate, and Community Association Managers"
+13903,공동주택 관리자,Multi-Family Housing Managers,0.641608557,11-9141,"Property, Real Estate, and Community Association Managers"
+13904,인력 공급 및 알선 서비스 관리자,Employment Agency Managers,0.713036207,11-3121,Human Resources Managers
+13909,그 외 전문 서비스 관리자,Professional Services Managers n.e.c.,0.724391371,11-9179,"Personal Service Managers, All Other"
+14111,건축 관련 관리자,Architectural Related Managers,0.831495523,11-9041,Architectural and Engineering Managers
+14112,토목 관련 관리자,Civil Engineering Related Managers,0.778036167,11-9041,Architectural and Engineering Managers
+14113,조경 관련 관리자,Landscaping Related Managers,0.715392909,37-3011,Landscaping and Groundskeeping Workers
+14114,광업 관련 관리자,Mining Related Managers,0.497083199,47-5041,Continuous Mining Machine Operators
+14121,전기 관련 관리자,Electricity Service Related Managers,0.626250171,51-8013,Power Plant Operators
+14122,가스 관련 관리자,Gas Service Related Managers,0.755708285,47-5013,"Service Unit Operators, Oil and Gas"
+14123,수도 관련 관리자,Water Supply Service Related Managers,0.693046776,51-8031,Water and Wastewater Treatment Plant and System Operators
+14124,증기 및 온수 관련 관리자,Steam and Hot Water Service Related Managers,0.625308857,51-8031,Water and Wastewater Treatment Plant and System Operators
+14131,식품 생산 관리자,Food Production Managers,0.815112535,11-9051,Food Service Managers
+14132,섬유 및 의복 제품 생산 관리자,"Textile, Garment Production Managers",0.715104038,51-6099,"Textile, Apparel, and Furnishings Workers, All Other"
+14133,화학제품 생산 관리자,Chemical Products Production Managers,0.756310595,11-3051,Industrial Production Managers
+14134,금속제품 생산 관리자,Metal Products Production Managers,0.730486405,11-3051,Industrial Production Managers
+14135,기계제품 생산 관리자,Machinery Products Production Managers,0.809117589,11-3051,Industrial Production Managers
+14136,전기 및 전자 제품 생산 관리자,Electrical and Electronic Products Production Managers,0.777366868,11-3051,Industrial Production Managers
+14139,그 외 제품 생산 관련 관리자,Production Managers n.e.c.,0.751647217,11-3051,Industrial Production Managers
+14901,농림·어업 관련 관리자,"Agriculture, Forest, Fishery Related Managers",0.665469575,11-9013,"Farmers, Ranchers, and Other Agricultural Managers"
+14902,수리 및 정비 관련 관리자,Repair and Maintenance Related Managers,0.66016879,49-9071,"Maintenance and Repair Workers, General"
+14909,그 외 건설·전기 및 생산 관련 관리자,"Construction, Electricity and Production Related Managers n.e.c.",0.739899602,11-9021,Construction Managers
+15111,영업 관련 관리자,Commerce Related Managers,0.73917466,11-3061,Purchasing Managers
+15112,판매 관련 관리자,Sales Related Managers,0.911228248,11-2022,Sales Managers
+15113,무역 관련 관리자,Trade Related Managers,0.65154433,11-3061,Purchasing Managers
+15121,육상운송 관련 관리자,Land Transport Related Managers,0.664739508,11-3071,"Transportation, Storage, and Distribution Managers"
+15122,해상운송 관련 관리자,Water Transport Related Managers,0.65749058,11-3071,"Transportation, Storage, and Distribution Managers"
+15123,항공운송 관련 관리자,Air Transport Related Managers,0.640624419,49-3011,Aircraft Mechanics and Service Technicians
+15211,숙박 관련 관리자,Lodging Related Managers,0.956371316,11-9081,Lodging Managers
+15212,여행 관련 관리자,Tourism Related Managers,0.716711419,11-9081,Lodging Managers
+15213,오락 및 스포츠 관련 관리자,Entertainment and Sports Related Managers,0.71578903,13-1011,"Agents and Business Managers of Artists, Performers, and Athletes"
+15219,그 외 숙박·여행·오락 및 스포츠 관련 관리자,"Lodging, Tourism, Entertainment and Sports Related Managers n.e.c.",0.746140189,11-9081,Lodging Managers
+15220,음식 서비스 관련 관리자,Food Service Related Managers,0.961761592,11-9051,Food Service Managers
+15301,환경 관련 관리자,Environmental Service Related Managers,0.6640488,11-3012,Administrative Services Managers
+15302,청소 관련 관리자,Cleaning Service Related Managers,0.66262966,37-2019,"Building Cleaning Workers, All Other"
+15303,경비 관련 관리자,Protective Service Related Managers,0.698985639,11-3012,Administrative Services Managers
+15901,회원 단체 관련 관리자,Membership Service Related Managers,0.67570569,11-3012,Administrative Services Managers
+15909,그 외 판매 및 고객 서비스 관리자,Sales and Customer Service Managers n.e.c.,0.783536481,41-9031,Sales Engineers
+21111,생물학 연구원,Biology Researchers,0.811715373,19-1029,"Biological Scientists, All Other"
+21112,의학 연구원,Medical Science Researchers,0.736948391,19-1042,"Medical Scientists, Except Epidemiologists"
+21113,약학 연구원,Pharmacy Researchers,0.76224828,29-2052,Pharmacy Technicians
+21114,농학 연구원,Agriculture Researchers,0.742055719,17-2021,Agricultural Engineers
+21115,임학 연구원,Forestry Researchers,0.731335065,45-4011,Forest and Conservation Workers
+21116,수산학 연구원,Fishery Researchers,0.630997651,45-3031,Fishing and Hunting Workers
+21117,식품학 연구원,Food Science Researchers,0.858078114,19-1012,Food Scientists and Technologists
+21118,축산 및 수의학 연구원,Livestock and Veterinary Science Researchers,0.743255207,19-1011,Animal Scientists
+21119,그 외 생명과학 연구원,Life Science Researchers n.e.c.,0.746538372,19-1029,"Biological Scientists, All Other"
+21121,물리학 연구원,Physics Researchers,0.826206774,19-2012,Physicists
+21122,화학 연구원,Chemistry Researchers,0.747183746,19-2031,Chemists
+21123,수학 및 통계학 연구원,Mathematics and Statistics Researchers,0.718939671,15-2041,Statisticians
+21124,지구 및 기상 과학 연구원,Earth and Meteorological Science Researchers,0.75841197,19-2021,Atmospheric and Space Scientists
+21125,천문 및 우주 과학 연구원,Astronomy and Space Science Researchers,0.785952395,19-2021,Atmospheric and Space Scientists
+21129,그 외 자연과학 연구원,Natural Science Researchers n.e.c.,0.734085541,19-1029,"Biological Scientists, All Other"
+21211,철학 연구원,Philosophy Researchers,0.637893182,19-3041,Sociologists
+21212,역사학 연구원,History Researchers,0.818591318,19-3093,Historians
+21213,언어학 및 문학 연구원,Linguistics and Literature Researchers,0.626851681,27-3043,Writers and Authors
+21214,인류학 연구원,Anthropology Researchers,0.772178978,19-3091,Anthropologists and Archeologists
+21215,교육학 연구원,Education Researchers,0.672309411,25-1081,"Education Teachers, Postsecondary"
+21216,심리학 연구원,Psychology Researchers,0.816831897,19-3039,"Psychologists, All Other"
+21219,그 외 인문과학 연구원,Cultural Sciences Researchers n.e.c.,0.573659093,25-1061,"Anthropology and Archeology Teachers, Postsecondary"
+21221,정치학 연구원,Politics Researchers,0.870766369,19-3094,Political Scientists
+21222,경제학 연구원,Economics Researchers,0.814220229,19-3011,Economists
+21223,경영학 연구원,Business Administration Researchers,0.68617707,13-1111,Management Analysts
+21224,사회학 연구원,Sociology Researchers,0.847122267,19-3041,Sociologists
+21225,사회복지학 연구원,Social Welfare Researchers,0.735378215,19-3099,"Social Scientists and Related Workers, All Other"
+21226,언론학 연구원,Journalism Researchers,0.79762909,27-3023,"News Analysts, Reporters, and Journalists"
+21229,그 외 사회과학 연구원,Social Science Researchers n.e.c.,0.750258391,19-3099,"Social Scientists and Related Workers, All Other"
+21311,생물학 시험원,Biology Technicians,0.920658091,19-4021,Biological Technicians
+21312,의료과학 시험원,Medical Science Technicians,0.838378967,51-9082,Medical Appliance Technicians
+21319,그 외 생명과학 시험원,Biological Science Technician n.e.c.,0.763139629,19-4021,Biological Technicians
+21321,농업 시험원,Agriculture Technicians,0.976456488,19-4012,Agricultural Technicians
+21322,임업 시험원,Forestry Technicians,0.871322117,19-4071,Forest and Conservation Technicians
+21323,어업 시험원,Fishery Technicians,0.696375154,49-3051,Motorboat Mechanics and Service Technicians
+21331,물리학 시험원,Physics Technicians,0.799217359,19-2012,Physicists
+21332,화학 시험원,Chemistry Technicians,0.911703385,19-4031,Chemical Technicians
+21333,지구 및 기상 과학 시험원,Earth and Meteorological Science Technicians,0.72883301,19-4044,Hydrologic Technicians
+21334,천문 및 우주 과학 시험원,Astronomy and Space Science Technicians,0.730595647,19-2021,Atmospheric and Space Scientists
+21339,그 외 자연과학 시험원,Natural Science Technicians n.e.c.,0.752606265,19-4099,"Life, Physical, and Social Science Technicians, All Other"
+22110,컴퓨터 하드웨어 기술자 및 연구원,Computer Hardware Researchers and Engineers,0.844137863,17-2061,Computer Hardware Engineers
+22121,통신기기 기술자 및 연구원,Telecommunication Machinery Researchers and Engineers,0.556474163,49-9041,Industrial Machinery Mechanics
+22122,통신장비 기술자 및 연구원,Telecommunication Equipment Researchers and Engineers,0.665382017,43-2099,"Communications Equipment Operators, All Other"
+22123,통신기술 기술자 및 연구원,Telecommunication Technology Researchers and Engineers,0.662319612,43-2099,"Communications Equipment Operators, All Other"
+22124,통신망 운영 기술자 및 연구원,Telecommunication Network Operation Researchers and Engineers,0.619353414,15-1241,Computer Network Architects
+22129,그 외 통신공학 기술자 및 연구원,Telecommunication Engineering Researchers and Engineers n.e.c.,0.662438775,43-2099,"Communications Equipment Operators, All Other"
+22211,정보 통신 컨설턴트,IT Consultants,0.658957424,11-3021,Computer and Information Systems Managers
+22212,컴퓨터 시스템 감리 전문가,Computer System Supervision Professionals,0.76632727,15-1232,Computer User Support Specialists
+22213,컴퓨터 시스템 설계 및 분석가,Computer System Designers and Analysts,0.883154486,15-1211,Computer Systems Analysts
+22221,시스템 소프트웨어 설계 및 분석가,System Software Designers and Analysts,0.805810739,15-1211,Computer Systems Analysts
+22222,시스템 소프트웨어 프로그래머,System Software Programmers,0.833880695,15-1252,Software Developers
+22231,범용 소프트웨어 프로그래머,General Purpose Software Programmers,0.769541319,15-1252,Software Developers
+22232,산업 특화 소프트웨어 프로그래머,Industry-Specific Software Programmers,0.743870348,15-1252,Software Developers
+22233,모바일 애플리케이션 프로그래머,Mobile Application Software Programmers,0.700858681,15-1252,Software Developers
+22234,게임 프로그래머,Computer Game Programmers,0.810899299,15-1251,Computer Programmers
+22235,네트워크 프로그래머,Network Programmers,0.728402661,15-1231,Computer Network Support Specialists
+22239,그 외 응용 소프트웨어 프로그래머,Application Software Programmers n.e.c.,0.723066504,15-1252,Software Developers
+22241,웹 프로그래머,Web Programmers,0.964396891,15-1254,Web Developers
+22242,웹 기획자,Web Directors,0.695630246,15-1254,Web Developers
+22290,그 외 컴퓨터 시스템 및 소프트웨어 전문가,Computer System and Application Software Developers n.e.c.,0.74232918,15-1252,Software Developers
+22311,데이터 설계 및 프로그래머,Data Designers and Programmers,0.753446519,15-2051,Data Scientists
+22312,데이터 분석가,Data Analysts,0.915648881,15-2051,Data Scientists
+22313,데이터 관리 및 운영자,Data Managers and Operators,0.540451432,15-1243,Database Architects
+22320,네트워크 시스템 개발자,Network System Developers,0.793855722,15-1241,Computer Network Architects
+22330,정보 보안 전문가,Information and Computer Security Professionals,0.775393196,15-1212,Information Security Analysts
+22390,그 외 데이터 및 네트워크 관련 전문가,Data and Network System Professionals n.e.c.,0.762567828,15-1231,Computer Network Support Specialists
+22410,정보 시스템 운영자,Information System Administrators,0.853244972,15-1244,Network and Computer Systems Administrators
+22420,웹 운영자,Web Masters,0.639463113,15-1254,Web Developers
+22501,통신장비 기사,Telecommunication Equipment Technicians,0.85191136,43-2099,"Communications Equipment Operators, All Other"
+22502,방송 송출 장비 기사,Broadcast Transmissions Equipment Technicians,0.874910806,27-4012,Broadcast Technicians
+23110,건축가,Architectural Practicians,0.666682396,17-3011,Architectural and Civil Drafters
+23121,건축구조 기술자,Building Structure Engineers,0.705893383,17-2051,Civil Engineers
+23122,건축감리 기술자,Building Supervision Engineers,0.763055827,47-4011,Construction and Building Inspectors
+23123,건축시공 기술자,Building Construction Engineers,0.835836219,17-2051,Civil Engineers
+23124,건축설비 기술자,Building Equipment Engineers,0.760401912,17-2051,Civil Engineers
+23125,건축안전 기술자,Building Safety Engineers,0.762683557,47-4011,Construction and Building Inspectors
+23126,건축에너지 관리 및 평가 기술자,Building Energy Management Engineers,0.612432925,11-9041,Architectural and Engineering Managers
+23129,그 외 건축 관련 기술자,Building Related Engineers n.e.c.,0.719533103,47-4011,Construction and Building Inspectors
+23131,토목구조 설계 기술자,Civil Engineering Structural Design Engineers,0.805936395,17-2051,Civil Engineers
+23132,토목감리 기술자,Civil Engineering Supervision Engineers,0.747469356,17-2051,Civil Engineers
+23133,토목시공 기술자,Civil Engineering Construction Engineers,0.93287414,17-2051,Civil Engineers
+23134,토목안전 기술자,Civil Engineering Safety Engineers,0.862244464,17-2051,Civil Engineers
+23139,그 외 토목 관련 기술자,Civil Engineers n.e.c.,0.850354601,17-2051,Civil Engineers
+23141,조경 계획 및 설계 기술자,Landscape Planing and Design Engineers,0.83377269,17-1012,Landscape Architects
+23142,조경감리 기술자,Landscape Supervision Engineers,0.745295061,17-1012,Landscape Architects
+23149,그 외 조경 관련 기술자,Landscape Engineers n.e.c.,0.741054436,17-1012,Landscape Architects
+23151,도시 계획 및 설계가,Town Planners and Designers,0.753719178,19-3051,Urban and Regional Planners
+23152,교통 계획 및 설계가,Traffic Planners and Designers,0.683374636,53-6041,Traffic Technicians
+23153,교통안전 연구원,Traffic Safety Researchers,0.646713733,53-6041,Traffic Technicians
+23154,교통영향 평가원,Traffic Effect Inspectors,0.619391254,53-6051,Transportation Inspectors
+23159,그 외 도시 및 교통 관련 전문가,Town and Traffic Related Professionals n.e.c.,0.712214168,53-6041,Traffic Technicians
+23161,측량 및 지리 정보 기술자,Land Surveying and Geographical Information Engineers,0.784414805,17-3031,Surveying and Mapping Technicians
+23162,사진측량 및 분석가,Photographic Surveyors and Photogrammetrists,0.818957546,17-1021,Cartographers and Photogrammetrists
+23163,지도 제작 기술자,Cartographers,0.8409619,19-3092,Geographers
+23164,지리 정보 시스템 전문가,Geographical Information System Specialists,0.682844137,19-3092,Geographers
+23170,건설자재 시험원,Construction Materials Testers,0.647918387,51-9061,"Inspectors, Testers, Sorters, Samplers, and Weighers"
+23211,석유화학 기술자 및 연구원,Petrochemical Engineers and Researchers,0.690068203,17-2041,Chemical Engineers
+23212,고무∙플라스틱 기술자 및 연구원,Rubber and Plastic Engineers and Researchers,0.527713375,17-2131,Materials Engineers
+23213,농약∙비료 기술자 및 연구원,Pesticide and Fertilizer Engineers and Researchers,0.75434363,37-3012,"Pesticide Handlers, Sprayers, and Applicators, Vegetation"
+23214,도료제품 기술자 및 연구원,Paint Products Engineers and Researchers,0.576528046,51-9123,"Painting, Coating, and Decorating Workers"
+23215,화장품∙비누제품 기술자 및 연구원,Cosmetics and Soap Engineers and Researchers,0.544098964,39-5094,Skincare Specialists
+23219,그 외 화학공학 기술자 및 연구원,Chemical Engineers and Researchers n.e.c.,0.828379001,17-2041,Chemical Engineers
+23221,석유화학 시험원,Petrochemical Technicians,0.841183277,19-4031,Chemical Technicians
+23222,고무 및 플라스틱 시험원,Rubber and Plastic Technicians,0.593270483,51-4192,"Layout Workers, Metal and Plastic"
+23223,농약 및 비료 시험원,Pesticide and Fertilizer Technicians,0.797476973,37-3012,"Pesticide Handlers, Sprayers, and Applicators, Vegetation"
+23224,도료제품 시험원,Paint Products Technicians,0.752299608,51-9123,"Painting, Coating, and Decorating Workers"
+23225,화장품 및 비누제품 시험원,Cosmetics and Soap Technicians,0.756681109,39-5094,Skincare Specialists
+23229,그 외 화학공학 시험원,Chemical Engineering Technicians n.e.c.,0.81494632,19-4031,Chemical Technicians
+23311,금속공학 기술자 및 연구원,Metal Engineers and Researchers,0.758890104,17-2131,Materials Engineers
+23312,요업∙세라믹공학 기술자 및 연구원,Ceramic Engineers and Researchers,0.648860612,19-2032,Materials Scientists
+23313,시멘트공학 기술자 및 연구원,Cement Engineers and Researchers,0.696239524,47-2051,Cement Masons and Concrete Finishers
+23319,그 외 금속∙재료 공학 기술자 및 연구원,Metal and Material Engineers and Researchers n.e.c.,0.79889236,17-2131,Materials Engineers
+23321,금속공학 시험원,Metal Engineering Technicians,0.784022051,17-2141,Mechanical Engineers
+23322,요업 및 세라믹 공학 시험원,Ceramic Engineering Technicians,0.740745252,17-2131,Materials Engineers
+23323,시멘트공학 시험원,Cement Engineering Technicians,0.729249258,47-2073,Operating Engineers and Other Construction Equipment Operators
+23329,그 외 금속 및 재료 공학 시험원,Metal and Material Engineering Technicians n.e.c.,0.753344415,17-3024,Electro-Mechanical and Mechatronics Technologists and Technicians
+23411,전기제품 개발 기술자 및 연구원,Electrical Products Developers and Researchers,0.607105785,17-2071,Electrical Engineers
+23412,발전설비 기술자 및 연구원,Electrical Power Plant Engineers and Researchers,0.720628115,51-8013,Power Plant Operators
+23413,송배전설비 기술자 및 연구원,Electrical Power Distribution and Transmission Engineers and Researchers,0.567540582,51-8012,Power Distributors and Dispatchers
+23414,전기계측 제어 기술자 및 연구원,Electrical Measurement and Control Engineers and Researchers,0.635389228,17-2071,Electrical Engineers
+23415,전기 감리 기술자 및 연구원,Electrical Supervisors and Researchers,0.6430931,17-2071,Electrical Engineers
+23416,전기 안전 기술자 및 연구원,Electrical Safety Engineers and Researchers,0.729877609,17-2071,Electrical Engineers
+23419,그 외 전기공학 기술자 및 연구원,Electrical Engineers and Researchers n.e.c.,0.839570958,17-2071,Electrical Engineers
+23421,전자제품 개발 기술자 및 연구원,Electronics Product Developers and Engineers,0.71940893,17-2072,"Electronics Engineers, Except Computer"
+23422,반도체공학 기술자 및 연구원,Semi-Conductor Engineers and Researchers,0.60869715,17-2071,Electrical Engineers
+23423,전자계측 제어 기술자 및 연구원,Electronic Measurement and Control Engineers and Researchers,0.603817118,17-2071,Electrical Engineers
+23424,전자 의료기기 개발 기술자 및 연구원,Electronic Medical Equipment Developers and Researchers,0.552430004,31-9093,Medical Equipment Preparers
+23429,그 외 전자공학 기술자 및 연구원,Electronic Engineers and Researchers n.e.c.,0.74321989,17-2071,Electrical Engineers
+23431,전기공학 시험원,Electrical Engineering Technicians,0.896589031,17-2071,Electrical Engineers
+23432,전자공학 시험원,Electronic Engineering Technicians,0.902433331,17-3023,Electrical and Electronic Engineering Technologists and Technicians
+23511,금형공학 기술자 및 연구원,Mold Engineers and Researchers,0.548374834,51-4071,Foundry Mold and Coremakers
+23512,플랜트공학 기술자 및 연구원,Plant Engineers and Researchers,0.759507502,19-1013,Soil and Plant Scientists
+23513,냉난방·공조공학 기술자 및 연구원,"Cooling, Heating and Air-Conditioning Engineers and Researchers",0.731134504,49-9021,"Heating, Air Conditioning, and Refrigeration Mechanics and Installers"
+23514,건설기계공학 기술자 및 연구원,Construction Mechanical Engineers and Researchers,0.746701563,17-2141,Mechanical Engineers
+23515,산업기계공학 기술자 및 연구원,Industrial Mechanical Engineers and Researchers,0.774890666,17-2112,Industrial Engineers
+23516,자동차공학 기술자 및 연구원,Automobile Engineers and Researchers,0.627911906,49-3023,Automotive Service Technicians and Mechanics
+23517,조선공학 기술자 및 연구원,Ship Engineers and Researchers,0.881657832,53-5031,Ship Engineers
+23518,항공기·철도 차량 공학 기술자 및 연구원,Aircraft and Railroad Vehicle Engineers and Researchers,0.678836959,17-2011,Aerospace Engineers
+23519,그 외 기계공학 기술자 및 연구원,Machine Engineers and Researchers n.e.c.,0.692510864,17-2141,Mechanical Engineers
+23520,로봇공학 기술자 및 연구원,Robot Engineers and Researchers,0.55075077,17-2141,Mechanical Engineers
+23531,기계공학 시험원,Mechanical Engineering Technicians,0.905197807,17-3027,Mechanical Engineering Technologists and Technicians
+23532,로봇공학 시험원,Robot Engineering Technicians,0.712727368,17-3024,Electro-Mechanical and Mechatronics Technologists and Technicians
+23610,방재 기술자 및 연구원,Fire and Emergency Management Engineers and Researchers,0.729938794,33-2022,Forest Fire Inspectors and Prevention Specialists
+23621,소방설계 기술자 및 연구원,Fire Modeling Engineers and Researchers,0.534827433,33-2022,Forest Fire Inspectors and Prevention Specialists
+23622,소방시설 공사 기술자 및 연구원,Fire Protection System Developers and Researchers,0.631679385,33-2022,Forest Fire Inspectors and Prevention Specialists
+23623,소방 공사 감리 기술자 및 연구원,Fire Protection Systems Supervisors and Researchers,0.748072258,33-1021,First-Line Supervisors of Firefighting and Prevention Workers
+23629,그 외 소방공학 기술자 및 연구원,Fire Protection Engineers and Researchers n.e.c.,0.781747428,33-2022,Forest Fire Inspectors and Prevention Specialists
+23630,소방공학 시험원,Fire Protection Engineers and Technicians,0.784949342,33-2021,Fire Inspectors and Investigators
+23641,산업 안전원,Industrial Safety Engineers,0.859834109,17-2112,Industrial Engineers
+23642,위험 관리원,Risk Management Specialists,0.838131793,13-2054,Financial Risk Specialists
+23649,그 외 산업 안전 및 위험 관리원,Industrial Safety and Risk Management Specialists n.e.c.,0.700213204,19-5011,Occupational Health and Safety Specialists
+23651,보건 위생 검사원,Health and Sanitation Inspectors,0.712430607,47-4011,Construction and Building Inspectors
+23652,환경 검사원,Environmental Inspectors,0.777237477,17-2081,Environmental Engineers
+23660,비파괴 검사원,Non-Destructive Inspectors,0.565265131,51-9061,"Inspectors, Testers, Sorters, Samplers, and Weighers"
+23711,대기 환경 기술자 및 연구원,Atmospheric Environment Engineers and Researchers,0.784698232,19-2021,Atmospheric and Space Scientists
+23712,수질 환경 기술자 및 연구원,Water Environment Engineers and Researchers,0.696581472,17-2081,Environmental Engineers
+23713,토양 환경 기술자 및 연구원,Soil Environment Engineers and Researchers,0.806781134,19-1013,Soil and Plant Scientists
+23714,소음 진동 기술자 및 연구원,Noise and Vibration Engineers and Researchers,0.523487873,27-4014,Sound Engineering Technicians
+23715,폐기물 처리 기술자 및 연구원,Waste Treatment Engineers and Researchers,0.612381014,51-8031,Water and Wastewater Treatment Plant and System Operators
+23716,환경 영향 평가원,Environmental Effect Analysts,0.559433781,17-2081,Environmental Engineers
+23719,그 외 환경공학 기술자 및 연구원,Environment Engineers and Researchers n.e.c.,0.835973498,17-2081,Environmental Engineers
+23720,가스·에너지 기술자 및 연구원,Gas and Energy Engineers and Researchers,0.668932194,17-2171,Petroleum Engineers
+23731,대기 환경 시험원,Atmospheric Environment Technicians,0.728377116,17-3025,Environmental Engineering Technologists and Technicians
+23732,수질 환경 시험원,Water Environment Technicians,0.805460012,19-4044,Hydrologic Technicians
+23733,토양 환경 시험원,Soil Environment Technicians,0.744680017,17-3025,Environmental Engineering Technologists and Technicians
+23734,소음 진동 시험원,Noise and Vibration Technicians,0.723728975,27-4014,Sound Engineering Technicians
+23735,폐기물 처리 시험원,Waste Treatment Technicians,0.698795476,19-4031,Chemical Technicians
+23736,환경 영향 시험원,Environmental Effects Technicians,0.8046493,17-2081,Environmental Engineers
+23739,그 외 환경공학 관련 시험원,Environment Engineering Technicians n.e.c.,0.867281217,17-3025,Environmental Engineering Technologists and Technicians
+23740,가스 및 에너지 시험원,Gas and Energy Technicians,0.781201925,51-8092,Gas Plant Operators
+23811,비행기 조종사,Airplane Pilots,0.767708203,53-2031,Flight Attendants
+23812,헬리콥터 조종사,Helicopter Pilots,0.69187382,53-2031,Flight Attendants
+23821,선장,Ship Captains,0.806096941,53-5031,Ship Engineers
+23822,항해사,Navigation Officers,0.611848735,53-6051,Transportation Inspectors
+23823,선박 기관사,Ship Engineers,1,53-5031,Ship Engineers
+23824,도선사,Ship Pilots,0.848490098,53-5031,Ship Engineers
+23831,항공교통 관제사,Air Traffic Controllers,1,53-2021,Air Traffic Controllers
+23832,선박교통 관제사,Ship Traffic Controllers,0.632676629,53-5031,Ship Engineers
+23833,철도교통 관제사,Railroad Traffic Controllers,0.749257054,33-3052,Transit and Railroad Police
+23910,식품공학 기술자 및 연구원,Food Engineers and Researchers,0.857840831,19-1012,Food Scientists and Technologists
+23921,섬유 소재 개발 기술자 및 연구원,Textile Material Developers and Researchers,0.657445848,51-6092,Fabric and Apparel Patternmakers
+23922,섬유 공정 개발 기술자 및 연구원,Textile Processing Developers and Researchers,0.706320703,51-6092,Fabric and Apparel Patternmakers
+23923,염색 개발 공학 기술자 및 연구원,Textile Dyeing Engineers and Researchers,0.701916769,51-6061,Textile Bleaching and Dyeing Machine Operators and Tenders
+23930,식품공학 시험원,Food Engineering Technicians,0.937520377,19-4013,Food Science Technicians
+23940,섬유공학 시험원,Textile Engineering Technicians,0.667452975,51-6063,"Textile Knitting and Weaving Machine Setters, Operators, and Tenders"
+23951,건축 제도사,Architectural Drafters,0.826342415,17-3011,Architectural and Civil Drafters
+23952,토목 제도사,Civil Engineering Drafters,0.825941556,17-3011,Architectural and Civil Drafters
+23953,기계 제도사,Mechanical Drafters,1,17-3013,Mechanical Drafters
+23954,전기 및 전자 장비 제도사,Electrical and Electronic Drafters,0.928439131,17-3012,Electrical and Electronics Drafters
+23959,그 외 제도사,Drafters n.e.c.,0.747759784,17-3019,"Drafters, All Other"
+23990,그 외 공학 관련 기술자 및 시험원,Engineering Related Engineers and Technicians n.e.c.,0.793355505,17-3023,Electrical and Electronic Engineering Technologists and Technicians
+24111,내과 전문 의사,Specialist Physicians,0.826013141,29-1222,"Physicians, Pathologists"
+24112,외과 전문 의사,Specialist Surgeons,0.826436514,29-1249,"Surgeons, All Other"
+24113,소아청소년과 전문 의사,Pediatric Specialists,0.900145526,29-1243,Pediatric Surgeons
+24114,산부인과 전문 의사,Obstetrics and Gynecology Specialists,0.883427066,29-1218,Obstetricians and Gynecologists
+24115,정신건강의학과 및 신경과 전문 의사,Psychiatry and Neurology Specialists,0.786505313,29-1217,Neurologists
+24116,안과 및 이비인후과 전문 의사,Ophthalmology and E.N.T. Specialists,0.720631177,29-1241,"Ophthalmologists, Except Pediatric"
+24117,피부과 및 비뇨기과 전문 의사,Dermatology and Urology Specialists,0.776866467,29-1213,Dermatologists
+24118,영상의학과 및 병리과 전문 의사,Radiology and Pathology Specialists,0.826769614,29-1224,Radiologists
+24119,그 외 전문 의사,Medical Specialists n.e.c.,0.756472891,29-1214,Emergency Medicine Physicians
+24120,일반 의사,General Practitioners,0.782060845,29-1216,General Internal Medicine Physicians
+24131,전문 한의사,Oriental Medical Specialists,0.655873981,29-1216,General Internal Medicine Physicians
+24132,일반 한의사,"Oriental Medical Practitioners, General",0.756302049,29-1216,General Internal Medicine Physicians
+24141,치과 전문 의사,Specialty Practice Dentists,0.768035802,29-1021,"Dentists, General"
+24142,치과 일반 의사,General Practice Dentists,0.891618683,29-1021,"Dentists, General"
+24150,수의사,Veterinarians,1,29-1131,Veterinarians
+24201,약사,Pharmacists,1,29-1051,Pharmacists
+24202,한약사,Oriental Pharmacists,0.729212088,29-1051,Pharmacists
+24301,전문 간호사,Nurse Practitioners,1,29-1171,Nurse Practitioners
+24302,일반 간호사,General Nurses,0.759819582,29-1141,Registered Nurses
+24303,보건교사,School Nurses,0.759453434,29-1141,Registered Nurses
+24304,조산사,Midwives,0.872433945,29-1161,Nurse Midwives
+24401,임상영양사,Clinical Dietitians,0.870273077,29-1031,Dietitians and Nutritionists
+24402,일반영양사,General Dietitians,0.863657679,29-1031,Dietitians and Nutritionists
+24403,영양교사,School Nutrition Teachers,0.694578987,29-1031,Dietitians and Nutritionists
+24510,임상병리사,Clinical Laboratory Technologists,0.945201303,29-2011,Medical and Clinical Laboratory Technologists
+24520,방사선사,Radiologic Technologists,0.946536488,29-2034,Radiologic Technologists and Technicians
+24530,치과기공사,Dental Technicians,0.912043702,31-9091,Dental Assistants
+24540,치과위생사,Dental Hygienists,1,29-1292,Dental Hygienists
+24551,의지 보조기기사,Prosthesis and Brace Technologists,0.670028235,29-2091,Orthotists and Prosthetists
+24552,보조공학사,Assistive Device Technologists,0.655294014,51-9082,Medical Appliance Technicians
+24561,물리치료사,Physical Therapists,1,29-1123,Physical Therapists
+24562,작업치료사,Occupational Therapists,1,29-1122,Occupational Therapists
+24570,임상심리사,Clinical Psychologists,0.90297742,19-3033,Clinical and Counseling Psychologists
+24591,전통 의료치료사,Traditional Medical Therapists,0.68658136,29-1129,"Therapists, All Other"
+24592,언어재활사,Speech Pathologists,0.882304572,29-1127,Speech-Language Pathologists
+24593,음악 및 미술치료사,Music and Art Therapists,0.704536972,25-1121,"Art, Drama, and Music Teachers, Postsecondary"
+24594,놀이 및 행동치료사,Play and Behavior Therapists,0.729259105,29-1125,Recreational Therapists
+24599,그 외 치료·재활사 및 의료기사,"Therapists, Pathologists and Medical Technologists n.e.c.",0.706834586,29-2055,Surgical Technologists
+24611,119 구조대원,119 Operators and Dispatchers,0.614990652,43-5032,"Dispatchers, Except Police, Fire, and Ambulance"
+24612,구급 요원,Emergency Operators and Dispatchers,0.830944796,43-5032,"Dispatchers, Except Police, Fire, and Ambulance"
+24620,위생사,Sanitarians,0.476565816,19-3041,Sociologists
+24630,안경사,Opticians,0.827122298,29-1041,Optometrists
+24640,의무 기록사,Medical Record Administrators,0.797206042,29-2072,Medical Records Specialists
+24650,간호조무사,Nursing Assistants,1,31-1131,Nursing Assistants
+24660,안마사,Massage Therapists,1,31-9011,Massage Therapists
+24710,사회복지사,Social Welfare Specialists,0.763703063,21-1022,Healthcare Social Workers
+24720,보육교사,Child Care Teachers,0.880178814,39-9011,Childcare Workers
+24730,직업상담사,Vocational Counselors,0.767534858,21-1012,"Educational, Guidance, and Career Counselors and Advisors"
+24740,상담 전문가,Counselling Specialists,0.805002808,21-1014,Mental Health Counselors
+24750,청소년 지도사,Juvenile Counselors,0.681410014,21-1019,"Counselors, All Other"
+24760,시민 단체 활동가,Non Governmental Organization Workers,0.585385636,19-3099,"Social Scientists and Related Workers, All Other"
+24791,복지시설 생활 지도원,Community and Social Services Livelihood Instructors,0.650989403,25-1113,"Social Work Teachers, Postsecondary"
+24799,그 외 사회복지 관련 종사원,Social Welfare Service Workers n.e.c.,0.770367738,21-1029,"Social Workers, All Other"
+24811,목사,Ministers,0.809672202,21-2011,Clergy
+24812,신부,Priests,0.808409454,21-2011,Clergy
+24813,승려,Buddhist Monks,0.574457993,21-2011,Clergy
+24814,교무,Religious Affair Administrators,0.588641363,21-2021,"Directors, Religious Activities and Education"
+24819,그 외 성직자,Clergymen n.e.c.,0.802057411,21-2011,Clergy
+24891,수녀 및 수사,Nuns and Monks,0.588977219,21-2011,Clergy
+24892,전도사,Preachers,0.741396378,21-2011,Clergy
+24899,그 외 종교 관련 종사원,Religious Activities Related Workers n.e.c.,0.757633898,21-2099,"Religious Workers, All Other"
+25111,교육 분야 교수,Professors in Education,0.710747452,25-1081,"Education Teachers, Postsecondary"
+25112,예술 및 인문학 교수,Arts and Humanities Professors,0.717042091,25-1121,"Art, Drama, and Music Teachers, Postsecondary"
+25113,사회과학·경영 및 법학 교수,"Social Sciences, Business and Law Professors",0.738845892,25-1069,"Social Sciences Teachers, Postsecondary, All Other"
+25114,자연과학·수학 및 통계학 교수,"Natural Sciences, Mathematics and Statistics Professors",0.710140965,19-2099,"Physical Scientists, All Other"
+25115,정보 통신기술 분야 교수,Information and Communication Technologies Professors,0.699237983,15-1221,Computer and Information Research Scientists
+25116,공학·제조 및 건설 분야 교수,"Engineering, Manufacturing and Civil Engineering Professors",0.677403004,25-1032,"Engineering Teachers, Postsecondary"
+25117,농림·수산업 및 수의학 교수,"Agriculture, Forestry, Fisheries and Veterinary Professors",0.749953652,19-1023,Zoologists and Wildlife Biologists
+25118,보건 및 복지 교수,Health and Welfare Professors,0.638422292,21-1091,Health Education Specialists
+25119,체육 및 그 외 분야 교수,Physical Education and College Professors n.e.c.,0.711055476,25-1193,"Recreation and Fitness Studies Teachers, Postsecondary"
+25121,교육 분야 시간강사,College Instructors in Education,0.721007727,25-3099,"Teachers and Instructors, All Other"
+25122,예술 및 인문학 시간강사,College Instructors in Arts and Humanities,0.762429906,25-1121,"Art, Drama, and Music Teachers, Postsecondary"
+25123,사회과학·경영 및 법학 시간강사,"College Instructors in Social Sciences, Business and Law",0.725410362,25-1069,"Social Sciences Teachers, Postsecondary, All Other"
+25124,자연과학·수학 및 통계학 시간강사,"College Instructors in Natural Sciences, Mathematics and Statistics",0.681372568,25-1051,"Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary"
+25125,정보 통신기술 분야 시간강사,College Instructors in Information and Communication Technologies,0.646234353,25-1021,"Computer Science Teachers, Postsecondary"
+25126,공학·제조 및 건설 분야 시간강사,"College Instructors in Engineering, Manufacturing and Civil Engineering",0.712384839,25-1032,"Engineering Teachers, Postsecondary"
+25127,농림·수산업 및 수의학 시간강사,"College Instructors in Agriculture, Forestry, Fisheries and Veterinary",0.725282042,25-1041,"Agricultural Sciences Teachers, Postsecondary"
+25128,보건 및 복지 시간강사,College Instructors in Health and Welfare,0.680827687,25-1192,"Family and Consumer Sciences Teachers, Postsecondary"
+25129,체육 및 그 외 분야 시간강사,Physical Education and College Instructors n.e.c.,0.761196686,25-1193,"Recreation and Fitness Studies Teachers, Postsecondary"
+25211,국어 교사,Korean Language Teachers,0.627778451,25-1124,"Foreign Language and Literature Teachers, Postsecondary"
+25212,수학 교사,Mathematics Teachers,0.789337432,25-1022,"Mathematical Science Teachers, Postsecondary"
+25213,사회 교사,Sociology Teachers,0.885883454,25-1067,"Sociology Teachers, Postsecondary"
+25214,과학 교사,Science Teachers,0.65101258,25-3099,"Teachers and Instructors, All Other"
+25215,예체능 교사,Arts and Physical Education Teachers,0.746660577,25-1121,"Art, Drama, and Music Teachers, Postsecondary"
+25216,실업 교사,Vocational Education Teachers,0.760207342,25-2032,"Career/Technical Education Teachers, Secondary School"
+25217,외국어 교사,Foreign Language Teachers,0.778827028,25-1124,"Foreign Language and Literature Teachers, Postsecondary"
+25219,그 외 중·고등학교 교사,Middle and High School Teachers n.e.c.,0.783109249,25-2022,"Middle School Teachers, Except Special and Career/Technical Education"
+25220,초등학교 교사,Elementary School Teachers,0.832661805,25-2021,"Elementary School Teachers, Except Special Education"
+25231,시각장애인 특수교육 교사,Special Education Teachers for the Visually Handicapped,0.743692917,25-2056,"Special Education Teachers, Elementary School"
+25232,청각장애인 특수교육 교사,Special Education Teachers for the Hearing Handicapped,0.754857309,25-2056,"Special Education Teachers, Elementary School"
+25239,그 외 특수교육 교사,Special Education Teachers n.e.c.,0.869007871,25-2056,"Special Education Teachers, Elementary School"
+25300,유치원 교사,Kindergarten Teachers,0.81510457,25-2012,"Kindergarten Teachers, Except Special Education"
+25411,국어 강사,Korean Language Instructors,0.611724479,25-3011,"Adult Basic Education, Adult Secondary Education, and English as a Second Language Instructors"
+25412,수학 강사,Mathematics Instructors,0.745868909,25-1022,"Mathematical Science Teachers, Postsecondary"
+25413,사회 강사,Sociology Instructors,0.830390518,25-1067,"Sociology Teachers, Postsecondary"
+25414,과학 강사,Science Instructors,0.679943027,25-3099,"Teachers and Instructors, All Other"
+25415,외국어 강사,Foreign Language Instructors,0.709242601,25-1124,"Foreign Language and Literature Teachers, Postsecondary"
+25419,그 외 문리 및 어학 강사,Liberal Arts and Language Instructors n.e.c.,0.761668507,25-1124,"Foreign Language and Literature Teachers, Postsecondary"
+25420,컴퓨터 강사,Computer Instructors,0.730758598,25-1021,"Computer Science Teachers, Postsecondary"
+25431,디자인 강사,Design Instructors,0.634489695,25-1031,"Architecture Teachers, Postsecondary"
+25432,이·미용 강사,Hairdressing Instructors,0.721585719,39-5012,"Hairdressers, Hairstylists, and Cosmetologists"
+25433,자동차 운전 강사,Driving Instructors,0.630637199,53-3051,"Bus Drivers, School"
+25434,요리 강사,Cooking Instructors,0.683719539,35-1011,Chefs and Head Cooks
+25439,그 외 기술 및 기능계 강사,Vocational and Polytechnic Skills Instructors n.e.c.,0.691823638,25-2032,"Career/Technical Education Teachers, Secondary School"
+25441,음악 강사,Music Instructors,0.641804825,25-1121,"Art, Drama, and Music Teachers, Postsecondary"
+25442,미술 강사,Art Instructors,0.680279999,25-1121,"Art, Drama, and Music Teachers, Postsecondary"
+25443,무용 강사,Dance Instructors,0.702031372,27-2031,Dancers
+25449,그 외 예능 강사,Arts Instructors n.e.c.,0.704564474,25-1121,"Art, Drama, and Music Teachers, Postsecondary"
+25451,학습지 방문강사,Supplementary Educational Programs Instructors,0.665127161,25-9031,Instructional Coordinators
+25452,교육 교구 방문강사,Educational Toys Instructors,0.561734825,25-2055,"Special Education Teachers, Kindergarten"
+25491,교육 연수 기관 강사,Registered Instructors in Training Institutions,0.617002074,39-9031,Exercise Trainers and Group Fitness Instructors
+25492,기업체 직무 훈련 강사,Registered Instructors in Corporations,0.611224624,25-1011,"Business Teachers, Postsecondary"
+25499,그 외 문리·기술 및 예능 강사,"Liberal Arts, Technical and Arts Instructors n.e.c.",0.719633511,25-1121,"Art, Drama, and Music Teachers, Postsecondary"
+25911,장학관 및 장학사,School Supervisors and Inspectors,0.590510403,47-4011,Construction and Building Inspectors
+25912,교육 연구관 및 교육 연구사,Educational Research Officials and Educational Research Specialists,0.616242634,11-9039,"Education Administrators, All Other"
+25913,입학 사정관,Admission Officers,0.567246633,13-1041,Compliance Officers
+25919,그 외 교육 전문가,Educational Professionals n.e.c.,0.696752228,11-9033,"Education Administrators, Postsecondary"
+25920,대학 교육 조교,University Teaching Assistants,0.84143615,25-9044,"Teaching Assistants, Postsecondary"
+25990,그 외 교사,Teachers and Instructors n.e.c.,0.790063591,25-3099,"Teachers and Instructors, All Other"
+26111,판사,Judges,0.744746644,23-1023,"Judges, Magistrate Judges, and Magistrates"
+26112,검사,Public Prosecutors,0.618874271,33-9021,Private Detectives and Investigators
+26120,변호사,Attorneys-at-law,0.66337085,23-1011,Lawyers
+26131,법무사,Jurists,0.793393091,23-1023,"Judges, Magistrate Judges, and Magistrates"
+26132,집행관,Bailiffs,1,33-3011,Bailiffs
+26140,변리사,Patents Attorneys,0.545596543,23-1011,Lawyers
+26190,그 외 법률 전문가,Legal Professionals n.e.c.,0.735506953,23-1011,Lawyers
+26201,정부행정 전문가,Government Administration Specialists,0.682679621,11-3012,Administrative Services Managers
+26202,공공행정 전문가,Public Administration Specialists,0.713444983,27-3031,Public Relations Specialists
+27111,노무사,Labor Relations Specialists,1,13-1075,Labor Relations Specialists
+27112,인사 컨설턴트,HR Consultants,0.784800021,13-1071,Human Resources Specialists
+27113,헤드헌터,Recruiters,0.615909162,41-9041,Telemarketers
+27119,그 외 인사 및 노사 관련 전문가,HR and Labor Relations Professionals n.e.c.,0.782199733,13-1075,Labor Relations Specialists
+27120,회계사,Accountants,0.822185899,13-2011,Accountants and Auditors
+27130,세무사,Taxation Accountants,0.726768985,13-2082,Tax Preparers
+27140,관세사,Customs Attorneys,0.559551005,43-5011,Cargo and Freight Agents
+27151,경영 컨설턴트,Business Consultants,0.705650072,13-1199,"Business Operations Specialists, All Other"
+27152,기업 인수 및 합병 전문가,Merger & Acquisition Specialists,0.599598696,13-2051,Financial and Investment Analysts
+27153,품질 인증 심사 전문가,Quality Certification Inspectors,0.639788559,47-4011,Construction and Building Inspectors
+27159,그 외 경영 및 진단 전문가,Business Consultants and Specialists n.e.c.,0.678172039,13-1199,"Business Operations Specialists, All Other"
+27211,투자 및 증권 분석가,Financial Investment and Stock Analysts,0.887475727,13-2051,Financial and Investment Analysts
+27212,신용 분석가,Credit Analysts,1,13-2041,Credit Analysts
+27221,금융자산 운용가,Fund and Financial Asset Managers,0.745849624,11-3031,Financial Managers
+27229,그 외 자산 운용가,Fund and Financial Asset Managers n.e.c.,0.732569498,11-3031,Financial Managers
+27231,보험 상품 개발자,Insurance Products Developers,0.67062284,13-2053,Insurance Underwriters
+27232,금융 상품 개발자,Financial Products Developers,0.606908014,13-2051,Financial and Investment Analysts
+27241,증권 중개인,Stock brokers,0.812786103,43-4011,Brokerage Clerks
+27242,선물거래 중개인,Futures Trading Brokers,0.599793531,43-4011,Brokerage Clerks
+27243,외환 딜러,Foreign Exchange Dealers,0.506133707,41-3031,"Securities, Commodities, and Financial Services Sales Agents"
+27250,손해 사정사,Insurance Assessors,0.754541318,13-2053,Insurance Underwriters
+27291,투자 인수 심사원,Investment Underwriters,0.772357681,13-2053,Insurance Underwriters
+27292,보험 인수 심사원,Insurance Underwriters,1,13-2053,Insurance Underwriters
+27293,투자신탁 전문가,Investment Trust Specialists,0.653464279,13-2099,"Financial Specialists, All Other"
+27299,그 외 금융 및 보험 관련 전문가,Finance and Insurance Related Professionals n.e.c.,0.756006894,13-2099,"Financial Specialists, All Other"
+27311,상품 기획자,Product Planners,0.49095176,13-1121,"Meeting, Convention, and Event Planners"
+27312,마케팅 전문가,Marketing Specialists,0.890134823,11-2021,Marketing Managers
+27320,여행 상품 개발자,Travel Service Developers,0.787352154,41-3041,Travel Agents
+27331,광고 전문가,Advertising Specialists,0.783610342,41-3011,Advertising Sales Agents
+27332,홍보 전문가,Public Relations Specialists,1,27-3031,Public Relations Specialists
+27340,조사 전문가,Survey Specialists,0.833999265,19-3022,Survey Researchers
+27351,이벤트 전문가,Event Specialists,0.672151756,13-1121,"Meeting, Convention, and Event Planners"
+27352,행사 전시 기획자,Exhibition Planners,0.709487478,13-1121,"Meeting, Convention, and Event Planners"
+27353,국내 및 국제회의 기획자,Domestic and International Conference Planners,0.845019708,13-1121,"Meeting, Convention, and Event Planners"
+27411,부동산 감정 전문가,Immovable Property Appraisers,0.772289428,13-2022,Appraisers of Personal and Business Property
+27412,동산 감정 전문가,Movable Property Appraisers,0.767396555,13-2023,Appraisers and Assessors of Real Estate
+27420,해외 영업원,Overseas Sales Representatives,0.675357883,41-3041,Travel Agents
+27431,자동차 부품 기술 영업원,Automobile Parts Technical Sales Representatives,0.789685521,49-3023,Automotive Service Technicians and Mechanics
+27432,전자 및 통신장비 기술 영업원,Electronics and Telecommunication Equipment Technical Sales Representatives,0.770606317,49-2096,"Electronic Equipment Installers and Repairers, Motor Vehicles"
+27433,의료장비 기술 영업원,Medical and Dental Equipment Technical Sales Representatives,0.726492666,51-9082,Medical Appliance Technicians
+27434,농업용 기계장비 기술 영업원,Agricultural Machinery Equipment Technical Sales Representatives,0.82042789,45-2091,Agricultural Equipment Operators
+27435,산업용 기계장비 기술 영업원,Industrial Machinery and Equipment Technical Sales Representatives,0.746153107,49-3041,Farm Equipment Mechanics and Service Technicians
+27436,의약품 영업원,Pharmaceutical Sales Representatives,0.811505607,29-2052,Pharmacy Technicians
+27439,그 외 기술 영업원,Technical Sales Representatives n.e.c.,0.767965824,41-9031,Sales Engineers
+27441,농수산물 중개인 및 경매사,"Agricultural, Forestry and Fishery Product Brokers and Auctioneers",0.718609085,13-1021,"Buyers and Purchasing Agents, Farm Products"
+27442,예술품 중개인 및 경매사,Art Works Brokers and Auctioneers,0.614268164,27-1013,"Fine Artists, Including Painters, Sculptors, and Illustrators"
+27449,그 외 상품 중개인 및 경매사,Wholesale Brokers and Auctioneers n.e.c.,0.691742387,13-1023,"Purchasing Agents, Except Wholesale, Retail, and Farm Products"
+27451,부동산 컨설턴트,Real Estate Consultants,0.833415526,41-9021,Real Estate Brokers
+27452,부동산 중개사,Estate Agents,0.8596521,41-9022,Real Estate Sales Agents
+27490,그 외 기술 영업 및 중개 관련 종사원,"Technical Sales Representatives, Brokers and Related Workers n.e.c.",0.738559665,41-4012,"Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products"
+28111,방송 및 시나리오 작가,Script Writers,0.699155114,27-2012,Producers and Directors
+28112,문학작가,Literary Writers,0.827481055,27-3043,Writers and Authors
+28119,그 외 작가,Writers n.e.c.,0.711530611,27-3043,Writers and Authors
+28121,출판물 기획자,Publishing Planners,0.512895442,13-1121,"Meeting, Convention, and Event Planners"
+28122,출판물 편집자,Publishing Editors,0.743700314,27-3041,Editors
+28131,기자,Journalists,0.760214861,27-3023,"News Analysts, Reporters, and Journalists"
+28132,평론가,Critics,0.549106398,27-2011,Actors
+28139,그 외 언론 관련 전문가,Journalists and Journalism Related Professionals n.e.c.,0.78129882,27-3023,"News Analysts, Reporters, and Journalists"
+28141,번역가,Translators,0.817510529,27-3091,Interpreters and Translators
+28142,통역가,Interpreters,0.832658146,27-3091,Interpreters and Translators
+28211,학예사,Curators,1,25-4012,Curators
+28212,문화재 보존원,Cultural Assets Preservation Workers,0.762296408,25-4013,Museum Technicians and Conservators
+28221,사서,Librarians,0.870518717,25-4031,Library Technicians
+28222,기록물 관리사,Archivists,1,25-4011,Archivists
+28311,감독 및 연출가,Directors and Producers,0.983777027,27-2012,Producers and Directors
+28312,기술 감독,Technical Directors,0.650291324,27-1011,Art Directors
+28319,그 외 감독 및 연출가,Directors and Producers n.e.c.,0.836006158,27-2012,Producers and Directors
+28321,배우,Actors,1,27-2011,Actors
+28322,개그맨 및 코미디언,Comedians,0.642357565,27-2011,Actors
+28323,성우,Radio Actors,0.713384901,27-3011,Broadcast Announcers and Radio Disc Jockeys
+28324,모델,Models,1,41-9012,Models
+28329,그 외 배우 및 모델,Actors and Models n.e.c.,0.726152751,27-2011,Actors
+28331,아나운서,Announcers,0.701726751,27-3011,Broadcast Announcers and Radio Disc Jockeys
+28332,리포터,Reporters,0.763200674,27-3023,"News Analysts, Reporters, and Journalists"
+28333,쇼핑호스트,Shopping Hosts,0.410316549,39-7011,Tour Guides and Escorts
+28339,그 외 아나운서 및 리포터,Announcers and Reporters n.e.c.,0.695084794,27-3011,Broadcast Announcers and Radio Disc Jockeys
+28340,촬영기사,Cinematographers,0.775808861,27-4021,Photographers
+28350,음향 및 녹음 기사,Sound Equipment Engineers,0.905901147,27-4014,Sound Engineering Technicians
+28360,영상·녹화 및 편집 기사,Video Recording and Editing Engineers,0.852353637,27-4032,Film and Video Editors
+28371,조명기사,Lights Operators,0.724688669,27-4015,Lighting Technicians
+28372,영사기사,Cinema Projection Operators,0.816767832,39-3021,Motion Picture Projectionists
+28391,미디어 콘텐츠 창작자,Media Contents Creators,0.516635469,27-4032,Film and Video Editors
+28392,스크립터,Scripters,0.508375977,27-2011,Actors
+28393,무대의상 관리원,Costume Attendants,1,39-3092,Costume Attendants
+28394,소품 관리원,Stage Property Attendants,0.713047432,39-3092,Costume Attendants
+28395,방송 및 영화연출 보조원,Assistants to Broadcasting and Film Producers,0.730780312,27-4012,Broadcast Technicians
+28396,보조 연기자,Extras,0.398842511,27-2011,Actors
+28399,그 외 연극·영화 및 영상 관련 종사원,"Drama, Film and Video Related Workers n.e.c.",0.661388642,27-4099,"Media and Communication Equipment Workers, All Other"
+28411,화가,Painters,0.731930726,47-2141,"Painters, Construction and Maintenance"
+28412,조각가,Sculptors,0.670055192,27-1012,Craft Artists
+28413,서예가,Calligraphers,0.604387231,51-9194,Etchers and Engravers
+28421,사진작가,Photograph Artists,0.667445004,27-4021,Photographers
+28422,사진기자,Photograph Journalists,0.674103487,27-4021,Photographers
+28423,사진가,Photographers,1,27-4021,Photographers
+28431,만화가,Cartoonists,0.642675819,27-1024,Graphic Designers
+28432,만화영화 작가,Animators,0.825407834,27-1014,Special Effects Artists and Animators
+28441,국악인,Korean Classical Music Vocalists,0.568871165,27-2042,Musicians and Singers
+28442,국악 연주가,Korean Classical Musicians,0.551006614,27-2042,Musicians and Singers
+28443,국악 작곡 및 편곡가,Korean Classical Music Composers and Arrangers,0.601733983,27-2041,Music Directors and Composers
+28444,전통 예능인,Traditional Artists,0.713336632,27-1012,Craft Artists
+28451,지휘자,Conductors,0.623556471,17-2071,Electrical Engineers
+28452,작곡가 및 편곡가,Composers and Arrangers,0.804255338,27-2041,Music Directors and Composers
+28453,연주가,Players,0.619952978,27-2031,Dancers
+28461,가수,Singers,0.878474462,27-2042,Musicians and Singers
+28462,성악가,Vocalists,0.850725358,27-2042,Musicians and Singers
+28471,무용가,Dancers,1,27-2031,Dancers
+28472,안무가,Choreographers,1,27-2032,Choreographers
+28490,그 외 시각 및 공연 예술가,Visual and Performing Artists and Related Workers n.e.c.,0.760873092,27-1019,"Artists and Related Workers, All Other"
+28511,자동차 디자이너,Motor Vehicles Designers,0.591302818,17-2141,Mechanical Engineers
+28512,가구 디자이너,Furniture Designers,0.728960195,27-1025,Interior Designers
+28519,그 외 제품 디자이너,Product Designers n.e.c.,0.725691698,27-1021,Commercial and Industrial Designers
+28521,직물 디자이너,Textile Designers,0.786430478,51-6092,Fabric and Apparel Patternmakers
+28522,의상 디자이너,Clothes Designers,0.870614261,27-1022,Fashion Designers
+28523,액세서리 디자이너,Accessory Designers,0.660476462,27-1029,"Designers, All Other"
+28524,가방 및 신발 디자이너,Bag and Shoes Designers,0.587724791,27-1022,Fashion Designers
+28531,인테리어 디자이너,Interior Designers,1,27-1025,Interior Designers
+28532,디스플레이 디자이너,Display Designers,0.770970991,27-1024,Graphic Designers
+28533,무대 및 세트 디자이너,Stage and Set Designers,0.82896971,27-1027,Set and Exhibit Designers
+28541,광고 디자이너,Advertisement Designers,0.685554299,27-1021,Commercial and Industrial Designers
+28542,포장 디자이너,Packaging Designers,0.567927107,53-7064,"Packers and Packagers, Hand"
+28543,책 디자이너,Book Designers,0.558791809,27-1027,Set and Exhibit Designers
+28544,삽화가,Illustrators,0.72913232,27-1024,Graphic Designers
+28545,색채 전문가,Colorists,0.639095401,27-1024,Graphic Designers
+28546,활자 디자이너,Font Designers,0.559250576,27-1024,Graphic Designers
+28549,그 외 시각 디자이너,Graphic Designers n.e.c.,0.787270926,27-1024,Graphic Designers
+28551,웹 디자이너,Web Designers,0.91668208,15-1254,Web Developers
+28552,멀티미디어 디자이너,Multimedia Designers,0.79885154,27-1024,Graphic Designers
+28553,게임 그래픽 디자이너,Game Graphic Designers,0.867064076,27-1024,Graphic Designers
+28554,사용자 경험 및 인터페이스 디자이너,User Experience and Interface Designers,0.718937633,15-1255,Web and Digital Interface Designers
+28559,그 외 미디어 콘텐츠 디자이너,Media Contents Designers n.e.c.,0.604156041,27-4032,Film and Video Editors
+28611,스포츠 감독,Sports Head Coaches,0.632688877,27-2022,Coaches and Scouts
+28612,스포츠 코치,Sports Coaches,0.714196819,27-2022,Coaches and Scouts
+28620,직업 운동선수,Professional Athletes,0.785701884,27-2021,Athletes and Sports Competitors
+28631,경기 심판,Referees,0.63262261,27-2023,"Umpires, Referees, and Other Sports Officials"
+28632,경기 기록원,Score Keepers,0.390746664,27-2022,Coaches and Scouts
+28691,스포츠 강사 및 트레이너,Sports Instructors and Trainers,0.810811187,29-9091,Athletic Trainers
+28692,레크리에이션 전문가,Recreation Planners and Instructors,0.759765925,25-1193,"Recreation and Fitness Studies Teachers, Postsecondary"
+28699,그 외 스포츠 및 레크리에이션 관련 전문가,Sports and Recreation Related Professionals n.e.c.,0.675142781,29-9091,Athletic Trainers
+28701,주방장,Chefs,0.817886664,35-1011,Chefs and Head Cooks
+28702,요리 연구가,Culinary Development Professionals,0.731023278,35-1011,Chefs and Head Cooks
+28709,그 외 식문화 관련 전문가,Food Culture Related Professionals n.e.c.,0.683566701,19-1012,Food Scientists and Technologists
+28810,공연·영화 및 음반 기획자,"Performance, Film, and Record Promoters",0.692740251,13-1011,"Agents and Business Managers of Artists, Performers, and Athletes"
+28821,연예인 매니저,Entertainer Agents,0.745597806,13-1011,"Agents and Business Managers of Artists, Performers, and Athletes"
+28822,스포츠 매니저,Sports Agents,0.720041571,13-1011,"Agents and Business Managers of Artists, Performers, and Athletes"
+31110,조세행정 사무원,Tax Administration Clerks,0.842851338,13-2082,Tax Preparers
+31120,관세행정 사무원,Customs Administration Clerks,0.683741761,43-5071,"Shipping, Receiving, and Inventory Clerks"
+31130,병무행정 사무원,Military Administration Clerks,0.658845665,43-3061,Procurement Clerks
+31141,국가행정 사무원,Government Administrative Clerks,0.732567555,43-4031,"Court, Municipal, and License Clerks"
+31142,지방행정 사무원,Local Government Administrative Clerks,0.783116539,43-4031,"Court, Municipal, and License Clerks"
+31150,공공행정 사무원,Public Administrative Clerks,0.764197516,43-4031,"Court, Municipal, and License Clerks"
+31211,경영 기획 사무원,Business Planning Clerks,0.718626051,43-3061,Procurement Clerks
+31212,영업 관리 사무원,Sales Management Clerks,0.868310674,11-2022,Sales Managers
+31213,광고 및 홍보 사무원,Public Relations and Advertising Clerks,0.77301153,43-4171,Receptionists and Information Clerks
+31214,분양 및 임대 사무원,Property Sales and Lease Clerks,0.644544904,41-2021,Counter and Rental Clerks
+31215,판매 사무원,Sales Clerks,0.873598589,41-2031,Retail Salespersons
+31219,그 외 기획 및 마케팅 사무원,Planning and Marketing Clerks n.e.c.,0.640777298,43-3061,Procurement Clerks
+31221,인사 및 노무 사무원,HR and Labor Relation Clerks,0.752512131,13-1075,Labor Relations Specialists
+31222,교육 및 훈련 사무원,Education and Training Clerks,0.703948934,43-4021,Correspondence Clerks
+31230,자재 관리 사무원,Inventory Clerks,0.833413742,43-5071,"Shipping, Receiving, and Inventory Clerks"
+31241,생산관리 사무원,Production Management Clerks,0.752966763,43-5061,"Production, Planning, and Expediting Clerks"
+31242,품질 관리 사무원,Quality Management Clerks,0.695283401,43-3061,Procurement Clerks
+31250,무역 사무원,Trading Clerks,0.796032423,43-4011,Brokerage Clerks
+31261,도로운송 사무원,Road Transport Clerks,0.787061118,53-6041,Traffic Technicians
+31262,철도운송 사무원,Railway Transport Clerks,0.759750527,53-4099,"Rail Transportation Workers, All Other"
+31263,수상운송 사무원,Water Transport Clerks,0.66781751,19-4044,Hydrologic Technicians
+31264,항공운송 사무원,Air Transport Clerks,0.75390152,53-6032,Aircraft Service Attendants
+31271,총무 사무원,General Affairs Clerks,0.731808083,43-5051,Postal Service Clerks
+31272,대학 행정조교,College Administrative Assistants,0.699374363,25-9049,"Teaching Assistants, All Other"
+31310,회계 사무원,Accounting Clerks,0.87550731,43-3031,"Bookkeeping, Accounting, and Auditing Clerks"
+31320,경리 사무원,Book-keeping Clerks,0.85771049,43-3031,"Bookkeeping, Accounting, and Auditing Clerks"
+31411,관리 비서,Executive Secretaries,0.817359758,43-6011,Executive Secretaries and Executive Administrative Assistants
+31412,일반 비서,General Secretaries,0.639942318,11-1021,General and Operations Managers
+31421,약국 전산 관리원,Pharmacist Computer Assistants,0.728761149,31-9095,Pharmacy Aides
+31422,전산 자료 입력원,Computer Data Entry Clerks,0.704069885,43-4071,File Clerks
+31423,사무 보조원,Office Administrative Assistants,0.783417518,43-6012,Legal Secretaries and Administrative Assistants
+32010,출납 창구 사무원,Tellers and Cashiers for Financial Service,0.753415598,43-3099,"Financial Clerks, All Other"
+32021,보험 심사원,Insurance Inspectors,0.756258029,13-1031,"Claims Adjusters, Examiners, and Investigators"
+32022,보험 사무원,Insurance Clerks,0.814816938,41-3021,Insurance Sales Agents
+32030,은행 사무원,Bank Clerks,0.804351184,43-3099,"Financial Clerks, All Other"
+32040,증권 사무원,Securities Brokerage Clerks,0.927642933,43-4011,Brokerage Clerks
+32051,수금원,Payment Collectors,0.732318514,43-3011,Bill and Account Collectors
+32052,신용 추심원,Debt Collection Clerks,0.689639782,43-4071,File Clerks
+32090,그 외 금융 사무원,Financial Service Related Clerks n.e.c.,0.801478692,43-3099,"Financial Clerks, All Other"
+33011,법무 사무원,Legal Clerks,0.843659636,23-1012,Judicial Law Clerks
+33012,특허 사무원,Patent Clerks,0.597356994,43-4071,File Clerks
+33019,그 외 법률 관련 사무원,Legal Clerks n.e.c.,0.763566951,23-1012,Judicial Law Clerks
+33020,감사 사무원,Inspection Clerks,0.753999587,53-6051,Transportation Inspectors
+39101,통계 사무원,Statistical Service Administrative Clerks,0.654697869,43-9111,Statistical Assistants
+39102,통계 및 설문 조사 사무원,Survey Interviewers and Enumerators,0.757770808,19-3022,Survey Researchers
+39109,그 외 통계 관련 사무원,Statistical Service Related Clerks n.e.c.,0.607939025,43-3031,"Bookkeeping, Accounting, and Auditing Clerks"
+39210,여행 사무원,Travel Agents,1,41-3041,Travel Agents
+39221,예약 및 접수 사무원,Reservation and Reception Clerks,0.746733286,43-4181,Reservation and Transportation Ticket Agents and Travel Clerks
+39222,데스크 안내원,Information Desk Clerks,0.789704558,43-4171,Receptionists and Information Clerks
+39223,방송 안내원,Broadcast Service Clerks,0.795000989,27-4012,Broadcast Technicians
+39224,전화교환 및 전화번호 안내원,Switchboard Operators and Answering Service Clerks,0.837187899,43-2011,"Switchboard Operators, Including Answering Service"
+39229,그 외 안내·접수원 및 전화교환원,"Receptionists, Information Desk, and Telephone Operators, n.e.c.",0.883265517,43-4171,Receptionists and Information Clerks
+39911,의료 서비스 상담 종사원,Medical Service Coordinators,0.722248401,11-9111,Medical and Health Services Managers
+39912,전화 상담원,Over-the-phone Customer Service Representatives,0.712016272,43-4051,Customer Service Representatives
+39913,방문 고객 상담원,Face-to-face Customer Service Representatives,0.757190938,43-4051,Customer Service Representatives
+39914,모니터 요원,Monitor Services Workers,0.604448875,45-4029,"Logging Workers, All Other"
+39915,중개 사무원,Real Estate Agent Assistants,0.74203737,41-9022,Real Estate Sales Agents
+39919,그 외 고객 상담 사무원,Customer Services and Service Monitoring Workers n.e.c.,0.648250162,43-4051,Customer Service Representatives
+39991,출판 및 자료편집 사무원,Publication and Editing Clerks,0.616959445,43-3021,Billing and Posting Clerks
+39992,속기사,Stenographers,0.529488879,29-1127,Speech-Language Pathologists
+39993,행정사,Administrative Agents,0.774649286,11-3012,Administrative Services Managers
+39994,취업 알선원,Job Placement Workers,0.640619371,43-9199,"Office and Administrative Support Workers, All Other"
+39999,그 외 사무원,Clerks n.e.c.,0.580017613,43-5061,"Production, Planning, and Expediting Clerks"
+41111,해양 경찰관 및 수사관,Coast Guard and Maritime Investigation Officers,0.680553475,33-3051,Police and Sheriff’s Patrol Officers
+41112,일반 경찰관 및 수사관,General Police and Investigation Officers,0.715135196,33-3021,Detectives and Criminal Investigators
+41120,소방관,Fire Fighters,0.916667931,33-2011,Firefighters
+41131,소년원 학교 교사,Juvenile Guidance Services Officers,0.625231659,21-1092,Probation Officers and Correctional Treatment Specialists
+41132,교도관,Prison Guards,0.804775841,33-3012,Correctional Officers and Jailers
+41210,경호원,Body Guards,0.883567382,33-9032,Security Guards
+41220,청원경찰,Police Assigned for Special Guards,0.65547656,33-9032,Security Guards
+41231,시설 경비원,Facility Security Guards,0.895763456,33-9032,Security Guards
+41232,호송 경비원,Escort Security Guards,0.845116309,33-9032,Security Guards
+41233,기계 경비원,Equipment Security Guards,0.836934926,33-9032,Security Guards
+41234,특수 경비원,Special Security Guards,0.916262839,33-9032,Security Guards
+41239,그 외 시설 및 특수 경비원,Facility and Special Security Guard n.e.c.,0.677168331,33-9032,Security Guards
+41291,보안 관제원,Security Controllers,0.551078274,33-9032,Security Guards
+41292,유통 및 매장 감시원,Distribution and Store Guards,0.578218321,11-3071,"Transportation, Storage, and Distribution Managers"
+41293,주차 단속원,Parking Controllers,0.607588115,33-3041,Parking Enforcement Workers
+41299,그 외 경호 및 보안 관련 종사원,Guards and Security Related Workers n.e.c.,0.783976543,33-9032,Security Guards
+42111,요양 보호사,Licensed Caregivers,0.717356011,31-1122,Personal Care Aides
+42112,간병인,Caregivers for the sick,0.688890882,31-1121,Home Health Aides
+42113,노인 및 장애인 돌봄 서비스 종사원,Geriatric or Special Needs Caregiving Service Workers,0.775424582,39-9099,"Personal Care and Service Workers, All Other"
+42121,보육 관련 시설 서비스 종사원,Child Care Service Workers,0.919501044,39-9011,Childcare Workers
+42122,교사 교육 보조원,Teachers' Assistants,0.828613731,25-9049,"Teaching Assistants, All Other"
+42191,산후조리 종사원,Postpartum Care Workers,0.544896228,39-9011,Childcare Workers
+42192,치료사 보조원,Therapist Assistants,0.825310615,31-2021,Physical Therapist Assistants
+42199,그 외 돌봄 및 보건 서비스 종사원,Caregiving and Health Service Workers n.e.c.,0.653025216,21-1022,Healthcare Social Workers
+42210,이용사,Barbers,1,39-5011,Barbers
+42220,미용사,Hairdressers,0.850512965,39-5012,"Hairdressers, Hairstylists, and Cosmetologists"
+42231,피부 관리사,Skin Care Specialists,0.982202714,39-5094,Skincare Specialists
+42232,체형 관리사,Fitness Specialists,0.754042596,39-9031,Exercise Trainers and Group Fitness Instructors
+42233,손톱 관리사,Nail Artists,0.647092562,27-1012,Craft Artists
+42234,목욕 관리사,Bathing Attendants,0.672786383,37-2012,Maids and Housekeeping Cleaners
+42239,그 외 피부 및 체형 관리 종사원,Skin Care and Fitness Service Workers n.e.c.,0.711570377,39-5094,Skincare Specialists
+42241,메이크업 아티스트,Make-up Artists,0.760900221,39-5091,"Makeup Artists, Theatrical and Performance"
+42242,특수 분장사,Special Make-Up Artists,0.730544158,39-5091,"Makeup Artists, Theatrical and Performance"
+42243,분장사,Film Make-up Artists,0.762723916,39-5091,"Makeup Artists, Theatrical and Performance"
+42291,패션 코디네이터,Fashion Coordinators,0.743387103,27-1022,Fashion Designers
+42292,이미지컨설턴트,Image Consultants,0.651444316,27-1024,Graphic Designers
+42299,그 외 미용 관련 서비스 종사원,Beauty Care Service Workers n.e.c.,0.705845405,39-5094,Skincare Specialists
+42311,결혼상담원,Wedding Consultants,0.568759798,13-1121,"Meeting, Convention, and Event Planners"
+42312,웨딩플래너,Wedding Planners,0.644064763,13-1121,"Meeting, Convention, and Event Planners"
+42320,혼례 종사원,Wedding Ceremony Workers,0.599740367,47-2061,Construction Laborers
+42331,장례 상담원,Funeral Consultants,0.849837601,39-4021,Funeral Attendants
+42332,장례 지도사,Funeral Guides,0.659032848,39-4021,Funeral Attendants
+42911,반려동물 미용사,Pet Groomers,0.715787939,39-5011,Barbers
+42912,반려동물 훈련사,Pet Trainers,0.871739005,39-2011,Animal Trainers
+42913,수의사 보조원,Veterinary Assistants,0.83973666,31-9096,Veterinary Assistants and Laboratory Animal Caretakers
+42921,점술가,Fortune Tellers,0.632385234,41-9041,Telemarketers
+42922,민속신앙 관련 종사원,Folk Religion Related Workers,0.712412221,21-2099,"Religious Workers, All Other"
+42930,개인 생활 서비스 종사원,Personal Service Workers,0.747096219,31-1122,Personal Care Aides
+43110,항공기 객실 승무원,Flight Attendants,1,53-2031,Flight Attendants
+43121,선박 객실 승무원,Ship Stewards,0.793055743,53-5031,Ship Engineers
+43122,열차 객실 승무원,Train Attendants,0.826609706,53-6061,Passenger Attendants
+43211,국내여행 안내원,Local Tour Guiders,0.799009328,39-7011,Tour Guides and Escorts
+43212,국외여행 안내원,Abroad Tour Guiders,0.786758846,39-7011,Tour Guides and Escorts
+43213,관광 통역 안내원,Tourist Interpretation Guiders,0.715316746,39-7012,Travel Guides
+43214,미술관·박물관 해설 및 안내원,Art Gallery and Museum Tour Guides,0.544525656,25-4013,Museum Technicians and Conservators
+43215,전시 및 시설 견학 안내원,Institution and Convention Tour Guides,0.602954766,39-7011,Tour Guides and Escorts
+43216,문화 관광 및 숲·자연환경 해설사,Culture and Forest Tour Guides,0.592557793,39-7012,Travel Guides
+43221,호텔 서비스원,Hotel Service Workers,0.794211677,43-4081,"Hotel, Motel, and Resort Desk Clerks"
+43229,그 외 숙박시설 서비스원,Lodging Facilities Service Workers n.e.c.,0.724022718,11-9081,Lodging Managers
+43231,유원시설 및 테마파크 서비스원,Amusement Park and Theme Park Service Workers,0.770218546,39-3091,Amusement and Recreation Attendants
+43232,노래방 서비스원,Karaoke Service Workers,0.605026275,35-3011,Bartenders
+43239,그 외 오락시설 서비스원,Entertainment Facilities Service Workers n.e.c.,0.7718803,39-3099,"Entertainment Attendants and Related Workers, All Other"
+43291,카지노 딜러,Casino Dealers,0.902145931,39-3011,Gambling Dealers
+43292,골프장 캐디,Caddies,0.534830689,53-3054,Taxi Drivers
+43293,응원단원,Cheer Leaders,0.544195744,27-2022,Coaches and Scouts
+43299,그 외 여가 서비스원,Leisure Services Workers n.e.c.,0.751550768,39-9032,Recreation Workers
+44110,한식 조리사,Korean Food Cooks,0.544205939,35-1011,Chefs and Head Cooks
+44120,중식 조리사,Chinese Food Cooks,0.665393598,35-2014,"Cooks, Restaurant"
+44130,양식 조리사,Western Food Cooks,0.609176011,35-1011,Chefs and Head Cooks
+44140,일식 조리사,Japanese Food Cooks,0.57152261,35-1011,Chefs and Head Cooks
+44151,커피 조리사,Coffee Baristas,0.730448084,35-3011,Bartenders
+44152,전통차 조리사,Tradition Tea Baristas,0.509701172,35-9031,"Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop"
+44159,그 외 음료 조리사,Beverage Specialists n.e.c.,0.535769222,35-3011,Bartenders
+44191,분식 조리사,Light Food Cooks,0.534783407,35-2015,"Cooks, Short Order"
+44199,그 외 조리사,Cooks n.e.c.,0.708344654,35-2019,"Cooks, All Other"
+44210,바텐더,Bartenders,1,35-3011,Bartenders
+44221,음식 서비스 종사원,Catering Service Workers,0.839637769,35-2021,Food Preparation Workers
+44222,음료 서비스 종사원,Beverage Service Workers,0.753154661,35-3011,Bartenders
+44223,주류 서비스 종사원,Alcohol Service Workers,0.697362479,35-3011,Bartenders
+44290,그 외 음식 서비스 종사원,Catering Services Workers n.e.c.,0.752698189,35-9099,"Food Preparation and Serving Related Workers, All Other"
+51011,신차 영업원,New Automobile Sales Representatives,0.670212252,41-3091,"Sales Representatives of Services, Except Advertising, Insurance, Financial Services, and Travel"
+51012,중고차 영업원,Used Automobile Sales Representatives,0.687180473,41-3091,"Sales Representatives of Services, Except Advertising, Insurance, Financial Services, and Travel"
+51021,건축자재 영업원,Construction Materials Sales Representatives,0.703782299,11-9021,Construction Managers
+51022,인쇄 및 광고 영업원,Printing and Advertising Sales Representatives,0.802521138,41-3011,Advertising Sales Agents
+51023,식품 영업원,Food Sales Representatives,0.826504078,35-2011,"Cooks, Fast Food"
+51024,체인점 모집 및 관리 영업원,Franchise Recruiters and Account Management Representatives,0.558087489,11-9141,"Property, Real Estate, and Community Association Managers"
+51029,그 외 일반 영업원,General Sales Representatives n.e.c.,0.764495354,41-3091,"Sales Representatives of Services, Except Advertising, Insurance, Financial Services, and Travel"
+51031,보험 중개인,Insurance Brokers,0.896132998,41-3021,Insurance Sales Agents
+51032,보험 설계사,Insurance Salespersons,0.925402378,41-3021,Insurance Sales Agents
+51033,투자 권유 대행인,Investment Solicitors,0.672500488,13-2099,"Financial Specialists, All Other"
+51041,대출 모집인,Loan Solicitors,0.803104726,13-2072,Loan Officers
+51042,신용카드 모집인,Credit Card Solicitors,0.646358812,13-2071,Credit Counselors
+52111,소규모 상점 경영자,Small Store Owners,0.676769538,41-2031,Retail Salespersons
+52112,소규모 상점 일선 관리 종사원,First-line Supervisors in Small Stores,0.868190577,41-1011,First-Line Supervisors of Retail Sales Workers
+52121,의류 판매원,Clothing Salespersons,0.841943559,41-2031,Retail Salespersons
+52122,화장품 판매원,Cosmetics Salespersons,0.78182792,41-2031,Retail Salespersons
+52123,가전제품 판매원,Electronic Home Appliances Salespersons,0.69193152,49-2096,"Electronic Equipment Installers and Repairers, Motor Vehicles"
+52124,가구 판매원,Furniture Salespersons,0.794438434,41-2031,Retail Salespersons
+52125,신발 및 액세서리 판매원,Footwear and Accessories Salespersons,0.759180798,41-2031,Retail Salespersons
+52126,서적·문구 및 음반 판매원,"Books, Stationery and Discs Salespersons",0.724356024,27-1026,Merchandise Displayers and Window Trimmers
+52127,원예작물 판매원,Horticultural Plant Salespersons,0.643715485,41-2031,Retail Salespersons
+52128,음식료품 판매원,Food and Beverage Salespersons,0.844222564,41-2031,Retail Salespersons
+52129,그 외 상점 판매원,Store Salespersons n.e.c.,0.864329744,41-2031,Retail Salespersons
+52131,항공권 판매원,Airline Ticket Salespersons,0.792072679,43-4181,Reservation and Transportation Ticket Agents and Travel Clerks
+52132,승차권 판매원,Passenger Ticket Salespersons,0.817643663,43-4181,Reservation and Transportation Ticket Agents and Travel Clerks
+52133,입장권 판매원,Admission Ticket Salespersons,0.692478073,39-3031,"Ushers, Lobby Attendants, and Ticket Takers"
+52134,복권 및 마권 판매원,Lottery and Horse Racing Lottery Ticket Salespersons,0.683232659,39-3011,Gambling Dealers
+52139,그 외 매표원 및 복권 판매원,Ticket Agent and Lottery Ticket Salespersons n.e.c.,0.672507394,39-3011,Gambling Dealers
+52141,매장 계산원,Store Cashiers,0.927475418,41-2011,Cashiers
+52142,요금 정산원,Toll Operators,0.622050531,43-2021,Telephone Operators
+52201,자동차 대여원,Automobile Rental Salespersons,0.754951824,41-2022,Parts Salespersons
+52202,생활용품 대여원,Living Supplies Rental Salespersons,0.63959475,41-2021,Counter and Rental Clerks
+52203,사무용품 대여원,Stationery Rental Salespersons,0.69600288,41-2021,Counter and Rental Clerks
+52204,오락 및 스포츠용품 대여원,Recreational and Sports Supplies Rental Salespersons,0.671251644,41-3091,"Sales Representatives of Services, Except Advertising, Insurance, Financial Services, and Travel"
+52205,도서 및 영상 기록 매체 대여원,Book and Video Records Rental Salespersons,0.639236807,41-9022,Real Estate Sales Agents
+52209,그 외 상품 대여원,Supplies Rental Salesperson n.e.c.,0.673106501,41-2021,Counter and Rental Clerks
+53110,단말기 및 통신 서비스 판매원,Mobile Telecommunication Device and Service Salespersons,0.670739161,41-2031,Retail Salespersons
+53120,온라인 쇼핑 판매원,Online Salespersons,0.763508481,41-2031,Retail Salespersons
+53130,텔레마케터,Telemarketers,1,41-9041,Telemarketers
+53210,방문 판매원,Door to Door Salespersons,0.773261442,41-2031,Retail Salespersons
+53220,노점 및 이동 판매원,Street Stall Salespersons and Vendors,0.654485725,41-9091,"Door-to-Door Sales Workers, News and Street Vendors, and Related Workers"
+53231,행사 및 홍보 도우미,Event and Advertising Assistants,0.59319194,13-1121,"Meeting, Convention, and Event Planners"
+53232,판촉원,Demonstrators,0.603651446,41-9011,Demonstrators and Product Promoters
+61110,곡식작물 재배원,Crop Farmers,0.765791343,45-2092,"Farmworkers and Laborers, Crop, Nursery, and Greenhouse"
+61121,채소작물 재배원,Vegetable Crop Farmers,0.771423249,45-2092,"Farmworkers and Laborers, Crop, Nursery, and Greenhouse"
+61122,특용작물 재배원,Special Crop Farmers,0.719149944,45-2092,"Farmworkers and Laborers, Crop, Nursery, and Greenhouse"
+61130,과수작물 재배원,Fruits Farmers,0.647688687,45-2092,"Farmworkers and Laborers, Crop, Nursery, and Greenhouse"
+61211,육묘작물 재배원,Nursery Growers,0.702234082,45-2092,"Farmworkers and Laborers, Crop, Nursery, and Greenhouse"
+61212,화훼작물 재배원,Floriculturists,0.605259287,19-4012,Agricultural Technicians
+61220,조경원,Landscapers,0.785897217,17-1012,Landscape Architects
+61311,젖소 사육자,Milk Cow Breeders,0.721249695,45-2021,Animal Breeders
+61319,그 외 낙농업 관련 종사원,Dairy Related Farmers n.e.c.,0.635010506,45-2091,Agricultural Equipment Operators
+61321,육우 사육자,Cattle Farmers,0.737673257,11-9013,"Farmers, Ranchers, and Other Agricultural Managers"
+61322,돼지 사육자,Pig Farmers,0.699728642,51-3023,Slaughterers and Meat Packers
+61323,가금 사육자,Poultry Farmers,0.697582175,51-3023,Slaughterers and Meat Packers
+61329,그 외 가축 사육 종사원,Livestock Breeders n.e.c.,0.742832091,45-2021,Animal Breeders
+61391,양봉 종사원,Apiarists,0.528809492,39-6012,Concierges
+61392,수렵 종사원,Hunters and Trappers,0.783194075,45-3031,Fishing and Hunting Workers
+61393,동물 부화원,Animal Hatchers,0.582428278,45-2021,Animal Breeders
+61394,감별사,Animal Sexers,0.598174977,45-2021,Animal Breeders
+61395,동물원 사육사,Zoo Keepers,0.748569769,39-2021,Animal Caretakers
+61399,그 외 사육 관련 종사원,Breeding Related Workers n.e.c.,0.588968102,51-9199,"Production Workers, All Other"
+62011,조림원 및 산림경영인,Forestation and Forest Management Workers,0.889778297,45-4011,Forest and Conservation Workers
+62012,벌목원,Loggers,0.731239491,45-4022,Logging Equipment Operators
+62091,임산물 채취 종사원,Forest Products Pickers,0.605618079,37-3013,Tree Trimmers and Pruners
+62099,그 외 임업 관련 종사원,Forestry Workers n.e.c.,0.777707336,45-4011,Forest and Conservation Workers
+63011,어패류 양식원,Fish and Shellfish Farm Workers,0.736091864,45-3031,Fishing and Hunting Workers
+63012,해조류 양식원,Seaweed Farm Workers,0.598355497,45-2099,"Agricultural Workers, All Other"
+63019,그 외 양식원,Fishery Farm Workers n.e.c.,0.717286121,45-3031,Fishing and Hunting Workers
+63021,원근해 어부,Deep-Sea and Coastal Waters Fishermen,0.720224797,45-3031,Fishing and Hunting Workers
+63022,내수면 어부,Inland Waters Fishermen,0.691603105,45-3031,Fishing and Hunting Workers
+63023,해녀,Shellfish Divers,0.72305596,49-9092,Commercial Divers
+71010,제빵사 및 제과원,"Bakers, Pastry-cooks and Confectionery Makers",0.703164019,35-2014,"Cooks, Restaurant"
+71020,떡 제조원,Rice Cake Makers,0.423071379,51-3092,Food Batchmakers
+71031,정육가공원,Meat Processors,0.742909796,51-3023,Slaughterers and Meat Packers
+71032,도축원,Butchers,0.859027698,51-3021,Butchers and Meat Cutters
+71039,그 외 정육가공 및 도축 관련 종사원,Meat Processing and Butchering Related Workers,0.822336055,51-3023,Slaughterers and Meat Packers
+71041,식품 등급원,Food Graders,0.619723569,19-4013,Food Science Technicians
+71042,담배 등급원,Tobacco Graders,0.467302009,45-2041,"Graders and Sorters, Agricultural Products"
+71051,김치 제조 종사원,Kimchi Makers,0.503155676,51-3092,Food Batchmakers
+71052,밑반찬 제조 종사원,Side Dish Makers,0.520154503,51-3092,Food Batchmakers
+71091,건강원 및 탕제원 종사원,Health Supplement Food and Drink Store Workers,0.701691835,35-2021,Food Preparation Workers
+71092,수산물가공 및 염장원,Marine Products Processors and Picklers,0.636423655,49-3051,Motorboat Mechanics and Service Technicians
+71099,그 외 수제 식품 제조 종사원,Handmade Foods Producers n.e.c.,0.675483741,51-3092,Food Batchmakers
+72111,직물 패턴사,Textile Pattern Makers,0.928665009,51-6092,Fabric and Apparel Patternmakers
+72112,가죽 패턴사,Leather Pattern Makers,0.743672977,51-6092,Fabric and Apparel Patternmakers
+72113,모피 패턴사,Fur Pattern Makers,0.757652349,51-6092,Fabric and Apparel Patternmakers
+72119,그 외 패턴사,Pattern Makers n.e.c.,0.78444718,51-6092,Fabric and Apparel Patternmakers
+72121,의복 재단사,Garment Cutters,0.795952698,51-6062,"Textile Cutting Machine Setters, Operators, and Tenders"
+72122,신발 및 구두 재단사,Footwear Cutters,0.620983013,51-6042,Shoe Machine Operators and Tenders
+72129,그 외 재단사,Cutters n.e.c.,0.566515622,51-9031,"Cutters and Trimmers, Hand"
+72131,직물 재봉사,Textile Sewers,0.660861486,51-6052,"Tailors, Dressmakers, and Custom Sewers"
+72132,가죽 및 모피 재봉사,Leather and Fur Sewers,0.661189153,51-6052,"Tailors, Dressmakers, and Custom Sewers"
+72133,신발 재봉사,Footwear Sewers,0.65846117,51-6052,"Tailors, Dressmakers, and Custom Sewers"
+72134,기계 자수사,Machine Embroidery Workers,0.78237811,51-6031,Sewing Machine Operators
+72139,그 외 재봉사,Sewers n.e.c.,0.725485388,51-6051,"Sewers, Hand"
+72140,제화원,Shoe Makers,0.709473332,51-6041,Shoe and Leather Workers and Repairers
+72191,모자 제조원,Hat Makers,0.528154003,51-6092,Fabric and Apparel Patternmakers
+72192,카펫 및 가발 제조원,Carpet and Wig Makers,0.597149481,47-2041,Carpet Installers
+72193,시트 제품 제조원,Upholstery Makers,0.804576849,51-6093,Upholsterers
+72194,수날염원,Hand Printing Workers,0.650829354,51-5112,Printing Press Operators
+72195,섬유 및 펠트 관련 선별원,Textile and Pelt Related Graders,0.635567156,45-2041,"Graders and Sorters, Agricultural Products"
+72199,그 외 섬유 및 가죽 관련 기능 종사원,Textile and Leather Related Workers n.e.c.,0.752978083,51-6099,"Textile, Apparel, and Furnishings Workers, All Other"
+72210,한복 제조원,Korean-Costume Makers,0.573573825,27-1022,Fashion Designers
+72221,양장 제조원,Dressmakers,0.656100519,27-1022,Fashion Designers
+72222,양복 제조원,Tailors,0.729380622,39-5011,Barbers
+72230,모피 및 가죽 의복 제조원,Fur and Leather Garment Makers,0.733058436,51-6092,Fabric and Apparel Patternmakers
+72241,의복 수선원,Garment Repairers,0.722939512,51-6099,"Textile, Apparel, and Furnishings Workers, All Other"
+72242,가죽 및 모피 수선원,Leather and Fur Repairers,0.682181356,51-6041,Shoe and Leather Workers and Repairers
+72243,구두 수선원,Shoe Repairers,0.792847772,51-6041,Shoe and Leather Workers and Repairers
+72249,그 외 수선원,Repairers n.e.c.,0.716780301,49-3021,Automotive Body and Related Repairers
+72290,그 외 의복 제조 관련 기능 종사원,Garment Makers n.e.c.,0.710341069,51-6092,Fabric and Apparel Patternmakers
+73011,목재케이스 및 나무상자 제조원,Wooden Case and Box Makers,0.587039166,51-7031,"Model Makers, Wood"
+73019,그 외 목제품 제조 관련 종사원,Woodworking Related Workers n.e.c.,0.822014564,51-7099,"Woodworkers, All Other"
+73021,가구 제조원,Furniture Makers,0.733311912,51-7021,Furniture Finishers
+73022,가구 수리원,Furniture Repairers,0.728149301,51-7021,Furniture Finishers
+73031,악기 제조 및 수리원,Musical Instrument Makers and Repairers,0.89494741,49-9063,Musical Instrument Repairers and Tuners
+73032,조율사,Musical Instrument Tuners,0.765117522,49-9063,Musical Instrument Repairers and Tuners
+73040,간판 제작 및 설치원,Signboard Makers,0.453657898,27-1024,Graphic Designers
+74110,금형원,Die and Mold Makers,0.731536891,51-4111,Tool and Die Makers
+74121,목형원,Wooden Mold Makers,0.741920033,51-7031,"Model Makers, Wood"
+74122,주형원,Mold Makers,0.641479451,51-9195,"Molders, Shapers, and Casters, Except Metal and Plastic"
+74123,금속 주입원,Metal Pourers and Casters,0.969670998,51-4052,"Pourers and Casters, Metal"
+74130,단조원,Forge Hammersmiths and Forging Press Workers,0.63756969,49-9044,Millwrights
+74210,제관원,Pipe Makers,0.700353319,47-3015,"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters"
+74220,판금원,Sheet Metal Makers,0.76627547,47-2211,Sheet Metal Workers
+74301,가스 용접원,Gas Welders,0.72093848,51-8092,Gas Plant Operators
+74302,전기 용접원,Electric Welders,0.71206895,51-4122,"Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders"
+74309,그 외 용접원,Welders n.e.c.,0.724905939,51-4121,"Welders, Cutters, Solderers, and Brazers"
+75101,자동차 엔진 정비원,Automobile Engine Mechanics,0.630938292,49-9041,Industrial Machinery Mechanics
+75102,자동차 섀시 정비원,Automobile Chassis Mechanics,0.600620653,49-9041,Industrial Machinery Mechanics
+75103,자동차 전기 및 전자 정비원,Automobile Electric and Electronic Mechanics,0.631677649,17-2071,Electrical Engineers
+75104,자동차 판금 정비원,Automobile Sheet Metal Mechanics,0.691091192,47-2211,Sheet Metal Workers
+75105,자동차 도장 정비원,Automobile Paint Mechanics,0.657735756,51-9124,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders"
+75106,자동차 경정비원,Automobile Minor Repair Mechanics,0.735235593,49-3021,Automotive Body and Related Repairers
+75107,자동차 튜닝원,Automobile Tuning Mechanics,0.583686641,49-9063,Musical Instrument Repairers and Tuners
+75109,그 외 자동차 정비원,Automobile Mechanics n.e.c.,0.746989051,49-3023,Automotive Service Technicians and Mechanics
+75211,비행기 정비원,Airplane Mechanics,0.689481956,17-2011,Aerospace Engineers
+75212,헬리콥터 정비원,Helicopter Mechanics,0.628885346,49-3052,Motorcycle Mechanics
+75220,선박 정비원,Ship Mechanics,0.882030053,53-5031,Ship Engineers
+75231,고속철 기관차 정비원,High-speed Locomotive Mechanics,0.701413413,53-4011,Locomotive Engineers
+75232,철도 기관차 정비원,Railroad Locomotive Mechanics,0.815293444,53-4011,Locomotive Engineers
+75233,전동차 정비원,Electric Train Mechanics,0.641706242,53-4011,Locomotive Engineers
+75234,여객차 및 화차 정비원,Railroad Car Mechanics,0.800992005,49-3043,Rail Car Repairers
+75291,오토바이 정비원,Motorcycle Repairers,0.883288697,49-3052,Motorcycle Mechanics
+75292,자전거 정비원,Bicycle Repairers,1,49-3091,Bicycle Repairers
+75299,그 외 운송장비 정비원,Transport Equipment Mechanics n.e.c.,0.72258453,17-3024,Electro-Mechanical and Mechatronics Technologists and Technicians
+75311,식품기계 설치 및 정비원,Food Machinery Fitters and Mechanics,0.635292507,49-9041,Industrial Machinery Mechanics
+75312,섬유기계 설치 및 정비원,Textile Machinery Fitters and Mechanics,0.783788822,51-6063,"Textile Knitting and Weaving Machine Setters, Operators, and Tenders"
+75313,화학기계 설치 및 정비원,Chemical Machinery Fitters and Mechanics,0.667463784,49-9041,Industrial Machinery Mechanics
+75314,공작기계 설치 및 정비원,Working Machinery Fitters and Mechanics,0.77031704,49-9041,Industrial Machinery Mechanics
+75315,전자 제품 기계 설치 및 정비원,Electronic Product Machinery Fitters and Mechanics,0.725476685,51-2023,Electromechanical Equipment Assemblers
+75319,그 외 공업기계 설치 및 정비원,Industrial Machinery Fitters and Mechanics n.e.c.,0.779621386,49-9041,Industrial Machinery Mechanics
+75321,엘리베이터 설치 및 정비원,Elevator Fitters and Mechanics,0.721349442,47-4021,Elevator and Escalator Installers and Repairers
+75322,에스컬레이터 설치 및 정비원,Escalator Fitters and Mechanics,0.615537546,47-4021,Elevator and Escalator Installers and Repairers
+75323,휠체어 리프트 설치 및 정비원,Wheel Chair Lift Fitters and Mechanics,0.475620815,47-4021,Elevator and Escalator Installers and Repairers
+75331,크레인 설치 및 정비원,Crane Fitters and Mechanics,0.616816459,53-7021,Crane and Tower Operators
+75332,호이스트 설치 및 정비원,Hoist Fitters and Mechanics,0.557037009,53-7041,Hoist and Winch Operators
+75333,지게차 정비원,Forklift Mechanics,0.591020427,17-2141,Mechanical Engineers
+75339,그 외 물품 이동 장비 설치 및 정비원,Freight-handling Equipment Fitters and Mechanics n.e.c.,0.674437394,47-4061,Rail-Track Laying and Maintenance Equipment Operators
+75341,건물용 냉동·냉장·공조기 설치 및 정비원,"Building Refrigerating, Freezer, and Ventilating System Fitters and Mechanics",0.567527311,49-9021,"Heating, Air Conditioning, and Refrigeration Mechanics and Installers"
+75349,그 외 냉동·냉장·공조기 설치 및 정비원,"Refrigerating, Freezer, and Ventilating System Fitters and Mechanics n.e.c.",0.621603131,49-9021,"Heating, Air Conditioning, and Refrigeration Mechanics and Installers"
+75351,건물용 보일러 설치 및 정비원,Building Boiler Fitters and Mechanics,0.628415533,51-8021,Stationary Engineers and Boiler Operators
+75359,그 외 보일러 설치 및 정비원,Boiler Fitters and Mechanics n.e.c.,0.787649197,51-8021,Stationary Engineers and Boiler Operators
+75361,건설용 굴삭기 정비원,Construction Excavator Mechanics,0.618283733,47-5022,"Excavating and Loading Machine and Dragline Operators, Surface Mining"
+75362,광업용 기계 설치 및 정비원,Mining Machinery Fitters and Mechanics,0.689386947,49-9041,Industrial Machinery Mechanics
+75369,그 외 건설용 기계 정비원,Construction Machinery Mechanics,0.852893008,49-9041,Industrial Machinery Mechanics
+75391,농업용 기계 설치 및 정비원,Agricultural Machinery Fitters and Mechanics,0.739284157,45-2091,Agricultural Equipment Operators
+75399,그 외 기계장비 설치 및 정비원,Other Machinery Equipment Fitters and Mechanics n.e.c.,0.714286242,49-2093,"Electrical and Electronics Installers and Repairers, Transportation Equipment"
+76110,사무용 전자기기 설치 및 수리원,Office Equipment Fitters and Repairers,0.758207141,49-9062,Medical Equipment Repairers
+76120,가전제품 설치 및 수리원,Electrical and Electronic Home Appliance Fitters and Repairers,0.805934929,49-9031,Home Appliance Repairers
+76191,감시카메라 설치 및 수리원,Closed-Circuit Television Fitters and Repairers,0.688767425,49-2097,Audiovisual Equipment Installers and Repairers
+76192,현금인출기 설치 및 수리원,Automated Teller Machine Fitters and Repairers,0.804269371,49-2011,"Computer, Automated Teller, and Office Machine Repairers"
+76193,포스시스템 설치 및 수리원,POS System Fitters and Repairers,0.558694198,49-3021,Automotive Body and Related Repairers
+76194,영상·전자음향기기 설치 및 수리원,Electrical and Electronics Equipment and Audio-visual Equipment Fitters and Repairers,0.849036367,49-2093,"Electrical and Electronics Installers and Repairers, Transportation Equipment"
+76195,의료기기 설치 및 수리원,Medical Equipment Fitters and Repairers,0.902197761,49-9062,Medical Equipment Repairers
+76196,시계 및 카메라 수리원,Watch and Camera Makers and Repairers,0.708797689,49-9064,Watch and Clock Repairers
+76197,광학기구 수리원,Optical Instrument Repairers,0.715563829,49-9061,Camera and Photographic Equipment Repairers
+76199,그 외 전기·전자기기 설치 및 수리원,Electrical and Electronic Equipment Fitters and Mechanics n.e.c.,0.776947467,51-2022,Electrical and Electronic Equipment Assemblers
+76211,항공기 전기 설치원,Aircraft Electrical Fitters,0.493247082,49-9051,Electrical Power-Line Installers and Repairers
+76212,선박 전기 설치원,Ship Electrical Fitters,0.570767684,17-3012,Electrical and Electronics Drafters
+76213,철도차량 전기 설치원,Railroad Trains Electrical Fitters,0.637234066,49-3043,Rail Car Repairers
+76214,플랜트 전기 설치원,Plant Electrical Fitters,0.478155298,47-2231,Solar Photovoltaic Installers
+76219,그 외 산업 전기 설치원,Industrial Electric Fitters n.e.c.,0.663412264,49-2094,"Electrical and Electronics Repairers, Commercial and Industrial Equipment"
+76221,건물 내 전기 설치 및 정비원,Service Electricians,0.825758757,47-2111,Electricians
+76222,비상 발전기 설치 및 정비원,Emergency Power Generator Fitters and Mechanics,0.477265822,49-2092,"Electric Motor, Power Tool, and Related Repairers"
+76223,조명 기구 설치 및 수리원,Light Fixture Fitters and Mechanics,0.420643124,51-2041,Structural Metal Fabricators and Fitters
+76224,전기제어장치 설치 및 정비원,Electrical Control Unit Fitters and Mechanics,0.456137828,49-9051,Electrical Power-Line Installers and Repairers
+76225,전기기기 설치 및 정비원,Electrical Equipment Fitters and Mechanics,0.707606343,51-2023,Electromechanical Equipment Assemblers
+76229,그 외 내선 설치 및 정비원,Wiremen n.e.c.,0.493167506,47-2111,Electricians
+76231,송배전설비 전기원,Overhead Electrical Power Cable Workers,0.631386139,47-2132,"Insulation Workers, Mechanical"
+76232,지중 전력설비 전기원,Underground Electric Power Cable Workers,0.645033525,47-5049,"Underground Mining Machine Operators, All Other"
+76233,전기케이블 접속원,Line Fitters,0.495830516,49-9052,Telecommunications Line Installers and Repairers
+76234,철도 고가 전선 가설원,Railroad Switching Fitters,0.585022717,53-4022,"Railroad Brake, Signal, and Switch Operators and Locomotive Firers"
+76239,그 외 외선 전기원,Linemen n.e.c.,0.419579577,35-2019,"Cooks, All Other"
+77110,컴퓨터 설치 및 수리원,Computer Fitters and Repairers,0.740611267,49-2011,"Computer, Automated Teller, and Office Machine Repairers"
+77120,이동전화기 수리원,Cellular Phone Repairers,0.69977815,49-2021,"Radio, Cellular, and Tower Equipment Installers and Repairers"
+77190,그 외 정보 통신기기 설치 및 수리원,Information and Communications Technology Equipment Fitters and Repairers n.e.c.,0.737193884,49-2096,"Electronic Equipment Installers and Repairers, Motor Vehicles"
+77211,방송장비 설치 및 수리원,Broadcasting Gear Fitters and Repairers,0.697006569,49-2097,Audiovisual Equipment Installers and Repairers
+77212,위성방송 안테나 설치 및 수리원,Satellite Dish Fitters and Repairers,0.589142044,49-9052,Telecommunications Line Installers and Repairers
+77221,통신장비 설치 및 수리원,Telecommunication Equipment Fitters and Repairers,0.829345147,49-9052,Telecommunications Line Installers and Repairers
+77222,기지국 설치 및 수리원,Base Station Fitters and Repairers,0.689046279,49-2021,"Radio, Cellular, and Tower Equipment Installers and Repairers"
+77231,통신케이블 설치 및 수리원,Telecommunications Network Cable Fitters and Repairers,0.8271103,49-9052,Telecommunications Line Installers and Repairers
+77232,방송케이블 설치 및 수리원,Broadcasting Network Cable Fitters and Repairers,0.639257974,49-9052,Telecommunications Line Installers and Repairers
+77233,인터넷케이블 설치 및 수리원,Internet Network Cable Fitters and Repairers,0.695555828,49-9052,Telecommunications Line Installers and Repairers
+78111,강구조물 가공원,Steel Structural Process Workers,0.86826352,47-2221,Structural Iron and Steel Workers
+78112,강구조물 건립원,Steel Structure Builders,0.693785898,51-2041,Structural Metal Fabricators and Fitters
+78120,경량 철골공,Light Weight Steel Frame Related Workers,0.728865521,47-2221,Structural Iron and Steel Workers
+78210,철근공,Concrete Reinforcing Iron Workers,0.818029031,47-2171,Reinforcing Iron and Rebar Workers
+78221,인조석 설치원,Terrazzo Workers,0.886642163,47-2053,Terrazzo Workers and Finishers
+78222,콘크리트패널 조립원,Concrete Panel Assemblers,0.645530836,47-2051,Cement Masons and Concrete Finishers
+78223,콘크리트 타설원,Concrete Placers,0.531329315,47-2051,Cement Masons and Concrete Finishers
+78230,건축 석공,Construction Stonemasons,0.785209667,47-2022,Stonemasons
+78241,전통 건물 건축원,Traditional Building Builders,0.638055379,17-3011,Architectural and Civil Drafters
+78242,외장 목공,Exterior Carpenters,0.812322679,47-2031,Carpenters
+78243,형틀 목공,Frame Mold Carpenters,0.648184318,47-2031,Carpenters
+78244,내장 목공,Interior Carpenters,0.817185868,47-2031,Carpenters
+78251,조적공,Bricklayers,0.719819802,47-2031,Carpenters
+78252,보도블록 설치원,Pavers,0.790715103,47-4091,Segmental Pavers
+78253,석재 부설원,Stonelayers,0.757235527,47-2022,Stonemasons
+78259,그 외 조적공 및 석재 부설원,Bricklayers and Stonelayers n.e.c.,0.738399768,47-2161,Plasterers and Stucco Masons
+78291,비계공,Scaffolders,0.554820033,47-2142,Paperhangers
+78292,건물 칸막이 설치원,Partition Installers,0.385293215,47-2231,Solar Photovoltaic Installers
+78293,건물 해체원,Building Demolition Workers,0.673456099,11-9021,Construction Managers
+78299,그 외 건설 관련 기능 종사원,Construction Related Technical Workers n.e.c.,0.773423553,47-4099,"Construction and Related Workers, All Other"
+78310,미장공,Plasters,0.560036969,47-2161,Plasterers and Stucco Masons
+78320,방수공,Waterproofers,0.473015018,39-5093,Shampooers
+78330,단열공,Insulation Workers,0.898629788,47-2132,"Insulation Workers, Mechanical"
+78341,마루 설치원,Floor Layers,0.788258416,47-2042,"Floor Layers, Except Carpet, Wood, and Hard Tiles"
+78342,타일 부착원,Tile Setters,0.824461125,47-2044,Tile and Stone Setters
+78343,대리석 부착원,Marble Setters,0.70848258,47-2044,Tile and Stone Setters
+78349,그 외 바닥재 시공원,Floor Layers n.e.c.,0.731648793,47-2042,"Floor Layers, Except Carpet, Wood, and Hard Tiles"
+78351,도배공,Paperhangers,1,47-2142,Paperhangers
+78352,유리 부착원,Glaziers,1,47-2121,Glaziers
+78361,건물 도장공,Building Painters,0.813394189,47-2141,"Painters, Construction and Maintenance"
+78369,그 외 건축 도장공,Construction Painters n.e.c.,0.84492978,47-2141,"Painters, Construction and Maintenance"
+78370,새시 조립 및 설치원,Window Chassis Assemblers and Installers,0.587085309,51-2011,"Aircraft Structure, Surfaces, Rigging, and Systems Assemblers"
+78391,건물 수리원,Building Repairers,0.740757981,47-4011,Construction and Building Inspectors
+78399,그 외 건축 마감 관련 기능 종사원,Construction Finishing Related Technical Workers n.e.c.,0.752122491,47-2073,Operating Engineers and Other Construction Equipment Operators
+78411,광원,Miners,0.630365812,47-5049,"Underground Mining Machine Operators, All Other"
+78412,채석원,Quarrymen,0.640983651,47-2022,Stonemasons
+78413,석재 절단원,Stone Splitters,0.797463375,47-5051,"Rock Splitters, Quarry"
+78421,철로 설치원,Railroad Track Fitters,0.677865916,47-4061,Rail-Track Laying and Maintenance Equipment Operators
+78422,철로 보수원,Railroad Track Repairers,0.832972827,49-3043,Rail Car Repairers
+78491,점화·발파 및 화약 관리원,"Igniting, Blasting and Gunpower Inspectors",0.554311449,47-5032,"Explosives Workers, Ordnance Handling Experts, and Blasters"
+78492,잠수 기능원,Underwater Workers,0.632956712,49-9092,Commercial Divers
+78493,삭구원 및 케이블 접속원,Riggers and Cable Fitters,0.654011461,49-9096,Riggers
+78494,천일염 생산 종사원,Bay Salt Production Workers,0.554301155,51-9199,"Production Workers, All Other"
+78499,그 외 채굴 및 토목 관련 종사원,Mining and Civil Engineering Related Workers n.e.c.,0.788626705,17-2151,"Mining and Geological Engineers, Including Mining Safety Engineers"
+79111,도자기 공예원,Pottery and Porcelain Handcraft Workers,0.612053701,51-9071,Jewelers and Precious Stone and Metal Workers
+79112,목 공예원,Wooden Articles Handicraft Workers,0.688043222,51-7031,"Model Makers, Wood"
+79113,석 공예원,Stone Articles Handicraft Workers,0.685760824,51-9071,Jewelers and Precious Stone and Metal Workers
+79114,종이 공예원,Paper and Paperboard Articles Handicraft Workers,0.664776687,51-9196,"Paper Goods Machine Setters, Operators, and Tenders"
+79119,그 외 공예원,Handcraft Workers n.e.c.,0.715579766,47-2061,Construction Laborers
+79121,귀금속 세공원,Metalsmiths,0.777857967,51-4041,Machinists
+79122,보석 세공원,Jewelers,0.765809412,51-9071,Jewelers and Precious Stone and Metal Workers
+79129,그 외 귀금속 및 보석 세공원,Jewelers and Precious Metal Workers n.e.c.,0.857370669,51-9071,Jewelers and Precious Stone and Metal Workers
+79211,상·하수 배관공,Water and Sewage Plumbers,0.749335387,47-2152,"Plumbers, Pipefitters, and Steamfitters"
+79212,가스 배관공,Gas Plumbers,0.733076961,51-8092,Gas Plant Operators
+79221,플랜트 배관공,Plant Plumbers,0.619059799,47-2152,"Plumbers, Pipefitters, and Steamfitters"
+79222,선박 배관공,Ship Plumbers,0.788166074,53-5031,Ship Engineers
+79223,항공기 배관공,Aircraft Plumbers,0.701939356,47-2152,"Plumbers, Pipefitters, and Steamfitters"
+79290,그 외 배관공,Plumbers n.e.c.,0.747847075,47-2152,"Plumbers, Pipefitters, and Steamfitters"
+79911,배관 세정원,Plumbing Pipe Cleaners,0.659249497,47-4071,Septic Tank Servicers and Sewer Pipe Cleaners
+79912,건물 외벽 세정원,Building Exterior Cleaners,0.568756866,53-7061,Cleaners of Vehicles and Equipment
+79913,방역원,Quarantine Workers,0.598640704,37-2021,Pest Control Workers
+79919,그 외 배관 세정원 및 방역원,Plumbing Pipe Cleaners and Quarantine Workers n.e.c.,0.688051799,47-2152,"Plumbers, Pipefitters, and Steamfitters"
+79991,인쇄 관련 기능 종사원,Printing Related Technical Workers,0.691237413,51-9151,Photographic Process Workers and Processing Machine Operators
+79992,유리 관련 기능 종사원,Glass Related Technical Workers,0.747323395,49-3022,Automotive Glass Installers and Repairers
+79999,그 외 기능 관련 종사원,Technical Occupations Related Workers n.e.c.,0.77696641,17-3026,Industrial Engineering Technologists and Technicians
+81111,곡물 및 사료 제분기 조작원,Grain and Fodder Miller Operators,0.410402477,53-7041,Hoist and Winch Operators
+81112,조미료 제분기 조작원,Spice Miller Machine Operators,0.564407341,51-9023,"Mixing and Blending Machine Setters, Operators, and Tenders"
+81113,도정기 조작원,Rice Pounder Operators,0.486854136,51-5112,Printing Press Operators
+81119,그 외 제분 및 도정 관련 기계 조작원,Miller and Pounder Related Machine Operators n.e.c.,0.584025995,51-9032,"Cutting and Slicing Machine Setters, Operators, and Tenders"
+81121,빵·과자 및 떡 제조 기계 조작원,"Bread, Cookies and Rice Cake Machine Operators",0.59097473,51-3093,Food Cooking Machine Operators and Tenders
+81122,두부 및 유사 제품 기계 조작원,Bean Curd and Similar Foods Processor Operators,0.564717521,51-3092,Food Batchmakers
+81123,국수 및 면류 제품 기계 조작원,Noodle Products Machine Operators,0.453357899,51-5112,Printing Press Operators
+81124,사탕·껌 및 초콜릿 제품 기계 조작원,"Sugar Candy, Chewing Gum and Chocolate Processor Operators",0.442223244,51-3091,"Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders"
+81129,그 외 곡물가공 제품 기계 조작원,Cereal Products Processing Machine Operators n.e.c.,0.585407712,45-2091,Agricultural Equipment Operators
+81131,육류가공 기계 조작원,Meat Processors Operators,0.80930202,51-3023,Slaughterers and Meat Packers
+81132,어패류가공 기계 조작원,Fish and Shellfish Processor Operators,0.430628891,51-8099,"Plant and System Operators, All Other"
+81133,낙농품가공 기계 조작원,Dairy Products Processor Operators,0.595213951,51-3099,"Food Processing Workers, All Other"
+81140,과실 및 채소 가공 관련 기계 조작원,Fruit and Vegetable Related Processor Operators,0.521607878,45-2091,Agricultural Equipment Operators
+81201,알코올성 음료 제조기 조작원,Alcoholic Beverage Processor Operators,0.559673937,51-8091,Chemical Plant and System Operators
+81202,비알코올성 음료 제조기 조작원,Non-alcoholic Beverage Processor Operators,0.580791468,51-3099,"Food Processing Workers, All Other"
+81209,그 외 음료 제조 관련 기계 조작원,Beverage Product Related Machine Operators n.e.c.,0.669777448,51-9023,"Mixing and Blending Machine Setters, Operators, and Tenders"
+81901,유지 제조기 조작원,Oil and Fat Products Machine Operators,0.655445647,51-3093,Food Cooking Machine Operators and Tenders
+81902,조미 식품 생산기 조작원,Seasoning Products Machine Operators,0.706610829,51-3093,Food Cooking Machine Operators and Tenders
+81903,설탕 제조 관련 기계 조작원,Sugar Production Related Machine Operators,0.555725896,45-2091,Agricultural Equipment Operators
+81904,커피 및 차류 제조기 조작원,Tea and Coffee Products Machine Operators,0.584309308,51-3091,"Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders"
+81905,담배 제조 관련 기계 조작원,Tobacco Production Related Machine Operators,0.721125221,51-3091,"Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders"
+81906,건강식품 가공기 조작원,Health Supplement Foods Machine Operators,0.619072016,29-2051,Dietetic Technicians
+81909,그 외 식품가공 관련 기계 조작원,Food Processing Related Machine Operators n.e.c.,0.754327215,51-3093,Food Cooking Machine Operators and Tenders
+82110,섬유 제조 기계 조작원,Textile Fibre Drawing Frame Machine Operators,0.675773157,51-6064,"Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders"
+82121,표백기 조작원,Textile Bleaching Machine Operators,0.901804794,51-6061,Textile Bleaching and Dyeing Machine Operators and Tenders
+82122,염색 조색 및 배합기 조작원,Dyeing and Color-mixing Related Workers,0.727724448,51-6061,Textile Bleaching and Dyeing Machine Operators and Tenders
+82123,날염기 조작원,Textile Print Machine Operators,0.757556347,51-6031,Sewing Machine Operators
+82124,염색기 조작원,Fabric Dyeing Machine Operators,0.854347841,51-6061,Textile Bleaching and Dyeing Machine Operators and Tenders
+82129,그 외 표백 및 염색 관련 기계 조작원,Textile Bleaching and Dyeing Related Operators n.e.c.,0.76295601,51-6061,Textile Bleaching and Dyeing Machine Operators and Tenders
+82211,제직기 조작원,Weaving Machine Operators,0.619007321,51-6031,Sewing Machine Operators
+82212,편직기 조작원,Knitting Machine Operators,0.837121295,51-6063,"Textile Knitting and Weaving Machine Setters, Operators, and Tenders"
+82219,그 외 직조기 및 편직기 조작원,Knitting and Weaving Related Machine Operators n.e.c.,0.869049943,51-6063,"Textile Knitting and Weaving Machine Setters, Operators, and Tenders"
+82220,신발 제조기 조작원 및 조립원,Shoemaking Machine Operators and Assemblers,0.685340603,51-6042,Shoe Machine Operators and Tenders
+82291,가죽 및 모피 가공원,Leather and Pelt Processors,0.423924285,51-6021,"Pressers, Textile, Garment, and Related Materials"
+82292,자동 재단기 조작원,Automatic Fabric Cutting Machine Operators,0.777766838,51-6062,"Textile Cutting Machine Setters, Operators, and Tenders"
+82293,자동 재봉설비 조작원,Automatic Sewing Machine Operators,0.906840594,51-6031,Sewing Machine Operators
+82299,그 외 직물∙신발 관련 기계 조작원 및 조립원,Textile and Shoe Related Machine Operators and Assemblers n.e.c.,0.736180232,51-6042,Shoe Machine Operators and Tenders
+82301,드라이클리닝기 조작원,Dry Cleaning Machine Operators,0.714344548,53-7061,Cleaners of Vehicles and Equipment
+82309,그 외 세탁 관련 기계 조작원,Laundry Related Machine Operators n.e.c.,0.715026801,51-6011,Laundry and Dry-Cleaning Workers
+83111,원유 처리 장치 조작원,Crude Oil Treating Equipment Operators,0.755548641,47-5011,"Derrick Operators, Oil and Gas"
+83112,석유 및 천연가스 정제 장치 조작원,Petroleum and Natural Gas Refining Equipment Operators,0.761930815,51-8093,"Petroleum Pump System Operators, Refinery Operators, and Gaugers"
+83113,폐유 및 재생유 처리 장치 조작원,Used and Recycled Oil Processing Machine Operators,0.657101095,47-5011,"Derrick Operators, Oil and Gas"
+83119,그 외 석유 및 천연가스 제조 관련 제어 장치 조작원,Petroleum and Natural Gas Production Related Control Equipment Operators n.e.c.,0.766779226,51-8093,"Petroleum Pump System Operators, Refinery Operators, and Gaugers"
+83121,화학물 분쇄기·마쇄기 및 혼합기 조작원,Chemical Material Grinding and Mixing Machine Operators,0.749179203,51-9023,"Mixing and Blending Machine Setters, Operators, and Tenders"
+83122,화학물 가열 처리 장치 조작원,Chemical Material Heat Treating Machine Operators,0.750919473,51-4191,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic"
+83123,화학물 여과기 및 분리기 조작원,Chemical Material Filtering and Separating Machine Operators,0.68488196,51-9012,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders"
+83124,화학물 증류기 및 반응기 조작원,Chemical Material Distiller and Reactor Operators,0.716295642,51-8091,Chemical Plant and System Operators
+83129,그 외 화학물 가공 장치 조작원,Chemical Material Processing Machine Operators n.e.c.,0.671396917,51-8091,Chemical Plant and System Operators
+83190,그 외 석유 및 화학물 가공 장치 조작원,Petroleum and Chemical Material Processing Machine Operators n.e.c.,0.740917561,51-9011,Chemical Equipment Operators and Tenders
+83211,약제품 생산기 조작원,Pharmaceutical Products Production Machine Operators,0.577242988,51-8091,Chemical Plant and System Operators
+83212,화장품 생산기 조작원,Cosmetics Production Machine Operators,0.617663825,51-6061,Textile Bleaching and Dyeing Machine Operators and Tenders
+83213,세제 생산기 조작원,Detergents Production Machine Operators,0.62393104,51-8091,Chemical Plant and System Operators
+83214,비료 생산기 조작원,Fertilizer Production Machine Operators,0.680118333,45-2091,Agricultural Equipment Operators
+83215,필름 생산기 조작원,Film Production Machine Operators,0.698226004,51-9151,Photographic Process Workers and Processing Machine Operators
+83216,가스 생산기 조작원,Gas Production Machine Operators,0.838445608,51-8092,Gas Plant Operators
+83219,그 외 화학제품 생산기 조작원,Chemical Products Production Machine Operators n.e.c.,0.703878103,51-8091,Chemical Plant and System Operators
+83221,타이어 생산기 조작원,Tire Production Machine Operators,0.7377343,51-9197,Tire Builders
+83222,고무제품 생산기 조작원,Rubber Products Production Machine Operators,0.587982709,51-9041,"Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders"
+83229,그 외 타이어 및 고무제품 생산기 조작원,Tire and Rubber Products Production Machine Operators n.e.c.,0.698559296,51-9197,Tire Builders
+83231,플라스틱 사출기 조작원,Plastic Catapulting Machine Operators,0.535898843,51-4081,"Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic"
+83232,플라스틱 압출기 조작원,Plastic Extruding Machine Operators,0.777133102,51-4021,"Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic"
+83239,그 외 플라스틱제품 생산기 조작원,Plastic Products Production Machine Operators n.e.c.,0.616677166,51-4062,"Patternmakers, Metal and Plastic"
+83241,고무제품 조립원,Rubber Products Assemblers,0.599261031,51-2099,"Assemblers and Fabricators, All Other"
+83242,플라스틱제품 조립원,Plastic Products Assemblers,0.688846295,51-2099,"Assemblers and Fabricators, All Other"
+84110,주조기 조작원,Metal Casting Machine Operators,0.761003944,51-4072,"Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic"
+84120,단조기 조작원,Forging Machine Operators,0.651472382,51-4022,"Forging Machine Setters, Operators, and Tenders, Metal and Plastic"
+84130,용접기 조작원,Welding Machine Operators,0.788452192,51-4122,"Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders"
+84141,광석 및 금속용광로 조작원,Ore and Metal Furnace Operators,0.829477121,51-4051,Metal-Refining Furnace Operators and Tenders
+84142,금속용해로 및 금속가열로 조작원,Metal Melting and Metal Reheating Furnace Operators,0.70965976,51-4051,Metal-Refining Furnace Operators and Tenders
+84149,그 외 금속가공 관련 제어 장치 조작원,Metal Processing Related Control Equipment Operators n.e.c.,0.70371036,51-4051,Metal-Refining Furnace Operators and Tenders
+84151,압연기 조작원,Rolling Mill Operators,0.825419338,51-4023,"Rolling Machine Setters, Operators, and Tenders, Metal and Plastic"
+84152,인발기 조작원,Drawing Machine Operators,0.60335241,51-4021,"Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic"
+84153,연선기 조작원,Wire Rope Machine Operators,0.675645808,51-6031,Sewing Machine Operators
+84154,압출기 조작원,Extruding Machine Operators,0.77305827,51-4021,"Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic"
+84155,금속 열처리로 조작원,Metal Heat Treatment Furnace Operators,0.780484131,51-4051,Metal-Refining Furnace Operators and Tenders
+84159,그 외 금속가공 기계 조작원,Metal Processing Machine Operators n.e.c.,0.654000992,49-9041,Industrial Machinery Mechanics
+84160,제관기 조작원,Pipe Machine Operators,0.6209873,51-9012,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders"
+84170,판금기 조작원,Sheet Metal Machine Operators,0.790789988,47-2211,Sheet Metal Workers
+84211,차량 도장기 조작원,Motor Vehicle Painting Machine Operators,0.798606297,51-9124,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders"
+84212,가구 도장기 조작원,Furniture Painting Machine Operators,0.674007609,51-9124,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders"
+84213,금속제품 도장기 조작원,Metal Product Painting Machine Operators,0.696480854,51-9124,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders"
+84219,그 외 도장기 조작원,Painting Machine Operators n.e.c.,0.645785278,51-9124,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders"
+84221,금속 세척기 조작원,Metal Cleaning Machine Operators,0.712625726,51-9192,"Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders"
+84222,전기 도금기 조작원,Electric Plating Machine Operators,0.740202454,51-4193,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic"
+84223,용융 도금기 조작원,Metal Dipping Machine Operators,0.67005724,51-4035,"Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic"
+84224,금속 분무기 조작원,Metal Spraying Machine Operators,0.78494151,51-9124,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders"
+84225,금속코팅·광택 및 래미네이팅기 조작원,"Metal Coating, Glossing and Laminating Machine Operators",0.739341356,51-9124,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders"
+84229,그 외 도금 및 금속 분무기 조작원,Plating and Metal Spraying Machine Operators n.e.c.,0.772146296,51-4193,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic"
+84311,유리 제조 및 제품 가공기 조작원,Glass and Glass Products Fabricating and Processing Machine Operators,0.703053385,49-3022,Automotive Glass Installers and Repairers
+84312,렌즈 및 프리즘 가공기 조작원,Lens and Prism Processing Machine Operators,0.483637737,51-9151,Photographic Process Workers and Processing Machine Operators
+84319,그 외 유리 제조 및 가공기 조작원,Glass and Glass Products Machine Operators n.e.c.,0.588496464,49-3022,Automotive Glass Installers and Repairers
+84321,도자기제품 생산기 조작원,Pottery and Porcelain Products Production Machine Operators,0.610445745,51-9021,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders"
+84322,벽돌 및 타일 생산기 조작원,Brick and Tile Production Machine Operators,0.59264381,47-3011,"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters"
+84329,그 외 점토제품 생산기 조작원,Clay Products Production Machine Operators n.e.c.,0.529114629,51-9041,"Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders"
+84331,시멘트 및 석회 제조 관련 조작원,Cement and Lime Production Related Machine Operators,0.651562512,51-9021,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders"
+84332,콘크리트제품 제조 관련 조작원,Concrete Products Production Related Machine Operators,0.588722196,51-9012,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders"
+84339,그 외 시멘트 및 광물제품 제조기 조작원,Cement and Mineral Products Production Machine Operators n.e.c.,0.649603853,51-9021,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders"
+84341,광석 및 석재 가공장치 조작원,Mineral Ore and Stone Processing Machine Operators,0.761351473,47-5044,"Loading and Moving Machine Operators, Underground Mining"
+84342,석제품 가공기 조작원,Stone Products Processing Machine Operators,0.631878688,51-9021,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders"
+84391,유약 생산기 조작원,Glaze Production Machine Operators,0.587175718,51-9124,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders"
+84392,광택제 생산기 조작원,Brightener Production Machine Operators,0.545697034,51-6061,Textile Bleaching and Dyeing Machine Operators and Tenders
+84399,그 외 비금속제품 관련 생산기 조작원,Nonmetal Products Related Production Machine Operators n.e.c.,0.52882834,51-9023,"Mixing and Blending Machine Setters, Operators, and Tenders"
+85101,선반기 조작원,Lathe Machine Operators,0.795480283,51-4034,"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic"
+85102,밀링기 조작원,Milling Machine Operators,0.81472509,51-4035,"Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic"
+85103,드릴링기 및 보링기 조작원,Drilling and Boring Machine Operators,0.866354209,51-4032,"Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic"
+85104,연삭기 및 연마기 조작원,Grinding Machine Operators,0.809477981,51-9021,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders"
+85105,프레스기 및 절단기 조작원,Press and Cutting Machine Operators,0.834738811,51-4031,"Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic"
+85106,금속절곡기 조작원,Metal Bending Machine Operators,0.694795196,51-4034,"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic"
+85107,머시닝센터 조작원,Machining Center Operators,0.690296992,51-4035,"Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic"
+85109,그 외 금속 공작 기계 조작원,Metal Work Machinery Operators n.e.c.,0.743373112,49-9043,"Maintenance Workers, Machinery"
+85201,냉난방기 관련 설비 조작원,Cooler and Heater Related Machine Operators,0.703048743,51-9193,Cooling and Freezing Equipment Operators and Tenders
+85202,냉동 및 냉장기 설비 조작원,Freezer and Refrigerator Machine Operators,0.730256912,51-9193,Cooling and Freezing Equipment Operators and Tenders
+85203,공조기설비 조작원,Air Conditioning Equipment Operators,0.75022981,49-9021,"Heating, Air Conditioning, and Refrigeration Mechanics and Installers"
+85301,자동 조립라인 조작원,Automated Assembly Line Operators,0.556010498,51-2031,Engine and Other Machine Assemblers
+85302,산업용로봇 조작원,Industrial Robot Operators,0.650187198,53-7051,Industrial Truck and Tractor Operators
+85410,자동차 조립원,Automobile Assemblers,0.792308655,51-2099,"Assemblers and Fabricators, All Other"
+85421,자동차 엔진 조립원,Automobile Engine Assemblers,0.870291325,51-2031,Engine and Other Machine Assemblers
+85422,자동차 차체 부품 조립원,Automobile Body Parts Assemblers,0.768574319,51-2099,"Assemblers and Fabricators, All Other"
+85429,그 외 자동차 부품 조립원,Automobile Parts Assemblers n.e.c.,0.776860858,51-2022,Electrical and Electronic Equipment Assemblers
+85431,철도차량 조립원,Locomotive Assemblers,0.803318592,53-4011,Locomotive Engineers
+85432,선박 조립원,Ship Assemblers,0.753372214,51-2099,"Assemblers and Fabricators, All Other"
+85433,항공기 조립원,Aircraft Assemblers,0.760727894,51-2099,"Assemblers and Fabricators, All Other"
+85439,그 외 운송장비 조립원,Transportation Equipment Assemblers n.e.c.,0.785280128,51-2022,Electrical and Electronic Equipment Assemblers
+85441,공업기계 조립원,Industry Machinery Assemblers,0.811977092,51-2022,Electrical and Electronic Equipment Assemblers
+85442,농업기계 조립원,Agricultural Machinery Assemblers,0.777756655,45-2091,Agricultural Equipment Operators
+85443,건설기계 조립원,Construction Machinery Assemblers,0.796348695,51-2099,"Assemblers and Fabricators, All Other"
+85444,공작기계 조립원,Machining Tools Assemblers,0.687407677,51-2031,Engine and Other Machine Assemblers
+85445,공구 조립원,Tool Assemblers,0.766075771,51-2031,Engine and Other Machine Assemblers
+85449,그 외 일반기계 조립원,General Machinery Assemblers n.e.c.,0.814855672,51-2031,Engine and Other Machine Assemblers
+85500,금속기계 부품 조립원,Metal Machinery Parts Assemblers,0.772056033,51-2023,Electromechanical Equipment Assemblers
+86101,화력발전장치 운전원,Thermal Power Plant Operators,0.876388424,51-8013,Power Plant Operators
+86102,수력발전장치 운전원,Hydro-Electric Power Plant Operators,0.828237666,51-8013,Power Plant Operators
+86103,원자력발전장치 운전원,Nuclear Power Plant Operators,0.942753792,51-8011,Nuclear Power Reactor Operators
+86104,발전터빈 조작원,Power Generation Turbine Operators,0.754554117,51-8013,Power Plant Operators
+86105,배전반 조작원,Electricity Distribution Board Operators,0.665257177,51-8013,Power Plant Operators
+86109,그 외 발전 및 배전장치 조작원,Power Generation and Distribution Equipment Operators n.e.c.,0.729485941,51-8013,Power Plant Operators
+86201,건물 전기 및 전자설비 조작원,Building Electrical and Electronic Equipment Operators,0.764322516,51-2022,Electrical and Electronic Equipment Assemblers
+86202,공장 전기 및 전자설비 조작원,Factory Electrical and Electronic Equipment Operators,0.813166587,49-2093,"Electrical and Electronics Installers and Repairers, Transportation Equipment"
+86209,그 외 전기 및 전자설비 조작원,Electrical and Electronic Equipment Operators n.e.c.,0.835501236,17-3023,Electrical and Electronic Engineering Technologists and Technicians
+86311,전기 부품 제조 기계 조작원,Electrical Parts Production Equipment Operators,0.799217086,51-2022,Electrical and Electronic Equipment Assemblers
+86312,전기제품 제조 기계 조작원,Electrical Products Production Equipment Operators,0.742554102,51-2022,Electrical and Electronic Equipment Assemblers
+86321,전자 부품 제조 기계 조작원,Electronic Parts Production Equipment Operators,0.81098566,51-2022,Electrical and Electronic Equipment Assemblers
+86322,전자제품 제조 기계 조작원,Electronic Products Production Machine Operators,0.638272975,51-2022,Electrical and Electronic Equipment Assemblers
+86401,전기장비 조립원,Electrical Equipment Assemblers,0.939423127,51-2022,Electrical and Electronic Equipment Assemblers
+86402,영상 및 음향장비 조립원,Audio-Visual Equipment Assemblers,0.783056762,49-2097,Audiovisual Equipment Installers and Repairers
+86403,전자 및 정밀 기구 조립원,Electronic Precision Instrument Assemblers,0.680931062,51-2061,Timing Device Assemblers and Adjusters
+86404,가정용 전기 및 전자제품 조립원,"Household Electrical, Electronic Equipment Assemblers",0.927255087,51-2022,Electrical and Electronic Equipment Assemblers
+86409,그 외 전기·전자 부품 및 제품 조립원,"Electrical, Electronic Parts and Products Assembler n.e.c.",0.854805024,51-2022,Electrical and Electronic Equipment Assemblers
+87101,고속철 기관사,High-speed Train Drivers,0.663373831,53-4011,Locomotive Engineers
+87102,철도 기관사,Railroad Train Drivers,0.815872443,53-4011,Locomotive Engineers
+87103,전동차 기관사,Electric Train Drivers,0.678787831,53-4011,Locomotive Engineers
+87109,그 외 철도 및 전동차 기관사,Locomotive and Electric Train Drivers n.e.c.,0.76666534,53-4011,Locomotive Engineers
+87200,철도운송 관련 종사원,Freight Train Related Workers,0.812458251,53-4099,"Rail Transportation Workers, All Other"
+87310,택시 운전원,Taxi Drivers,1,53-3054,Taxi Drivers
+87321,시내버스 운전원,City Bus Drivers,0.783242464,53-3052,"Bus Drivers, Transit and Intercity"
+87322,시외 및 고속 버스 운전원,Intercity and Express Bus Drivers,0.899951981,53-3052,"Bus Drivers, Transit and Intercity"
+87323,관광버스 운전원,Tourist Bus Drivers,0.694681832,53-3052,"Bus Drivers, Transit and Intercity"
+87329,그 외 버스 운전원,Bus Drivers n.e.c.,0.797562147,53-3051,"Bus Drivers, School"
+87331,경·소형 화물차 운전원,Small Truck Drivers,0.850447984,53-3033,Light Truck Drivers
+87332,중형 화물차 운전원,Medium Truck Drivers,0.816606119,53-3033,Light Truck Drivers
+87333,대형 화물차 운전원,Heavy Truck Drivers,0.895266962,53-3032,Heavy and Tractor-Trailer Truck Drivers
+87339,그 외 화물차 및 특수차 운전원,Truck and Special Motor Vehicle Drivers n.e.c.,0.730003529,53-3099,"Motor Vehicle Operators, All Other"
+87391,승용차 및 승합차 운전원,Sedan and Van Drivers,0.556212979,53-3033,Light Truck Drivers
+87392,렌터카 운전원,Rental Car Drivers,0.728747357,53-3054,Taxi Drivers
+87393,대리 운전원,Designated Driving Service Workers,0.695750781,47-4051,Highway Maintenance Workers
+87394,대리 주차원,Designated Parking Service Workers,0.888394011,33-3041,Parking Enforcement Workers
+87399,그 외 자동차 운전원,Automobile Drivers n.e.c.,0.74683388,53-3099,"Motor Vehicle Operators, All Other"
+87401,크레인 운전원,Crane Operators,0.882131383,53-7021,Crane and Tower Operators
+87402,리프트 조작원,Lift Operators,0.597902006,53-7041,Hoist and Winch Operators
+87403,호이스트 운전원,Hoist Operators,0.779006806,53-7041,Hoist and Winch Operators
+87404,지게차 운전원,Forklift Operators,0.675830998,53-7051,Industrial Truck and Tractor Operators
+87409,그 외 물품 이동 장비 조작원,Freight-handling Equipment Operators n.e.c.,0.728736016,47-4061,Rail-Track Laying and Maintenance Equipment Operators
+87501,굴착기·착암기 및 채광기 조작원,"Excavating, Rock-drilling and Mining Machine Operators",0.84661896,47-5049,"Underground Mining Machine Operators, All Other"
+87502,시추장비 조작원,Drilling and Boring Equipment Operators,0.860208842,51-4032,"Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic"
+87503,도로정지기 운전원,Motor Grader Drivers,0.507894912,53-1043,First-Line Supervisors of Material-Moving Machine and Vehicle Operators
+87504,항타기 운전원,Pile Driver Operators,1,47-2072,Pile Driver Operators
+87505,도로포장기 및 롤러 운전원,Road Paving and Roller Drivers,0.616995303,47-2071,"Paving, Surfacing, and Tamping Equipment Operators"
+87506,굴삭기 및 불도저 운전원,Excavating Machine and Bulldozer Operators,0.714429477,47-5044,"Loading and Moving Machine Operators, Underground Mining"
+87507,콘크리트 믹서 트럭 운전원,Concrete Mixer Drivers,0.6497094,47-2072,Pile Driver Operators
+87508,덤프트럭 운전원,Dumper Truck Drivers,0.760082511,53-3033,Light Truck Drivers
+87509,그 외 건설 및 채굴기계 운전원,Construction and Mining Machines Operators n.e.c.,0.751369601,47-5022,"Excavating and Loading Machine and Dragline Operators, Surface Mining"
+87601,선박부원,Ship Deck and Ship Engine Department Workers,0.770854976,53-5031,Ship Engineers
+87602,등대원,Lighthouse Keepers,0.538884101,33-2011,Firefighters
+87609,그 외 선박 관련 승무원,Ship Related Workers n.e.c.,0.781362192,53-5031,Ship Engineers
+88101,펌프 장치 조작원,Water Pumping Station Operators,0.735736468,53-7072,"Pump Operators, Except Wellhead Pumpers"
+88102,정수 처리 장치 조작원,Water Purification Plant Operators,0.865469469,51-8031,Water and Wastewater Treatment Plant and System Operators
+88103,하수 처리 장치 조작원,Sewage Plant Operators,0.822458304,51-8031,Water and Wastewater Treatment Plant and System Operators
+88109,그 외 상하수도 처리 장치 조작원,Water Treatment Related Operators n.e.c.,0.845160749,51-8031,Water and Wastewater Treatment Plant and System Operators
+88201,재활용 처리 기계 조작원,Recycling Machine Operators,0.562099295,49-9043,"Maintenance Workers, Machinery"
+88202,소각로 조작원,Incinerator Operators,0.500498729,39-4012,Crematory Operators
+88209,그 외 재활용 처리 및 소각로 조작원,Recycling Machine and Incinerator Operator n.e.c.,0.546472307,53-7081,Refuse and Recyclable Material Collectors
+89111,제재기 조작원,Sawmill Operators,0.751827612,51-7041,"Sawing Machine Setters, Operators, and Tenders, Wood"
+89112,목재처리기 조작원,Wood Treating Machine Operators,0.718991308,51-7041,"Sawing Machine Setters, Operators, and Tenders, Wood"
+89113,합판생산기 조작원,Plywood Processing Machine Operators,0.655750284,51-4035,"Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic"
+89119,그 외 목재가공 관련 기계 조작원,Wood Processing Related Machine Operators n.e.c.,0.713393347,51-7041,"Sawing Machine Setters, Operators, and Tenders, Wood"
+89120,가구 조립원,Furniture Assemblers,0.741393008,51-7021,Furniture Finishers
+89131,펄프 제조 장치 조작원,Pulp Machine Operators,0.67122594,51-9021,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders"
+89132,종이 제조 장치 조작원,Paper Machine Operators,0.801957468,51-9196,"Paper Goods Machine Setters, Operators, and Tenders"
+89141,종이상자 및 봉투 제조기 조작원,Box and Envelope Making Machine Operators,0.629531148,51-9111,Packaging and Filling Machine Operators and Tenders
+89142,판지 라이닝기 조작원,Cardboard Lining Machine Operators,0.728570278,51-9111,Packaging and Filling Machine Operators and Tenders
+89143,인화지 제조기 조작원,Photographic Printing Paper Machine Operators,0.852936837,51-5112,Printing Press Operators
+89144,위생용 종이제품 제조기 조작원,Sanitary Paper Products Machine Operators,0.782014959,51-9196,"Paper Goods Machine Setters, Operators, and Tenders"
+89149,그 외 종이제품 생산기 조작원,Paper Products Machine Operators n.e.c.,0.801966595,51-9196,"Paper Goods Machine Setters, Operators, and Tenders"
+89190,그 외 목재 및 종이 관련 기계 조작원,Wood and Paper Related Machine Operators n.e.c.,0.712348439,51-7041,"Sawing Machine Setters, Operators, and Tenders, Wood"
+89211,인쇄 필름 출력원,Film Output Handlers,0.478633035,27-4032,Film and Video Editors
+89212,인쇄판 출력원,Printing Output Handlers,0.552752694,51-5113,Print Binding and Finishing Workers
+89213,오프셋인쇄기 조작원,Offset Printing Press Operators,0.805846354,51-5112,Printing Press Operators
+89214,윤전인쇄기 조작원,Rotary Printing Press Operators,0.838276997,51-5112,Printing Press Operators
+89215,경인쇄기 조작원,Light Printing Press Operators,0.889631315,51-5112,Printing Press Operators
+89216,디지털인쇄기 조작원,Digital Press Operators,0.810466367,51-5112,Printing Press Operators
+89217,그라비어인쇄기 조작원,Gravure Printing Press Operators,0.879033962,51-5112,Printing Press Operators
+89218,제책 및 재단용 기계 조작원,Bookbinding Machine Operators,0.513214361,51-5112,Printing Press Operators
+89219,그 외 인쇄기 조작원,Printing Related Machine Operators n.e.c.,0.677027497,51-5112,Printing Press Operators
+89221,사진 인화 및 현상기 조작원,Photoprint and Development Machine Operators,0.735889244,51-9151,Photographic Process Workers and Processing Machine Operators
+89229,그 외 사진 인화 및 현상기 조작원,Photo Processing Machine Operators n.e.c.,0.793028639,51-9151,Photographic Process Workers and Processing Machine Operators
+89901,주입·포장 및 봉함기 조작원,"Container Filling, Packing and Sealing Machine Operators",0.819785387,51-9111,Packaging and Filling Machine Operators and Tenders
+89902,상표 부착기 조작원,Brand Marking Equipment Operators,0.585105038,51-9011,Chemical Equipment Operators and Tenders
+89903,케이블 및 배관 부설기 조작원,Cable and Pipe Laying Equipment Operators,0.755326801,47-4061,Rail-Track Laying and Maintenance Equipment Operators
+89904,공기압축기 조작원,Air Compressor Operators,0.817495204,53-7071,Gas Compressor and Gas Pumping Station Operators
+89909,그 외 기계 조작원,Machine Operators n.e.c.,0.661007404,47-5041,Continuous Mining Machine Operators
+91001,건설 단순 종사원,Construction Laborers,1,47-2061,Construction Laborers
+91002,광업 단순 종사원,Mining Laborers,0.854699306,47-2061,Construction Laborers
+92101,하역 및 적재 관련 단순 종사원,Freight Loading and Lifting Laborers,0.728867427,53-7062,"Laborers and Freight, Stock, and Material Movers, Hand"
+92102,이삿짐 운반원,Moving Service Laborers,0.725733067,53-7199,"Material Moving Workers, All Other"
+92109,그 외 하역 및 적재 단순 종사원,Loading and Lifting Elementary Workers n.e.c.,0.622361002,47-5044,"Loading and Moving Machine Operators, Underground Mining"
+92210,우편집배원,Postmen,0.720119578,43-5052,Postal Service Mail Carriers
+92221,택배원,Door to Door Deliverers,0.636372544,41-9091,"Door-to-Door Sales Workers, News and Street Vendors, and Related Workers"
+92229,그 외 택배원,Door to Door Deliverers n.e.c.,0.621996181,41-9091,"Door-to-Door Sales Workers, News and Street Vendors, and Related Workers"
+92230,음식 배달원,Food Deliverers,0.688320106,35-2011,"Cooks, Fast Food"
+92291,음료 배달원,Beverage Deliverers,0.649846964,35-3011,Bartenders
+92292,신문 배달원,Newspaper Deliverers,0.693577808,43-5051,Postal Service Clerks
+92299,그 외 배달원,Deliverers n.e.c.,0.496482984,43-5052,Postal Service Mail Carriers
+93001,수동 포장원,Packing Laborers,0.674860731,53-7064,"Packers and Packagers, Hand"
+93002,수동 상표 부착원,Labeling Laborers,0.68291845,47-2061,Construction Laborers
+93003,제품 단순 선별원,Product Screening Laborers,0.623482565,51-9061,"Inspectors, Testers, Sorters, Samplers, and Weighers"
+93009,그 외 제조 관련 단순 종사원,Production Related Elementary Workers n.e.c.,0.706613377,51-9199,"Production Workers, All Other"
+94111,건물 청소원,Building Cleaners,0.721043694,53-7061,Cleaners of Vehicles and Equipment
+94112,운송장비 청소원,Transport Vehicle Cleaners,0.89595849,53-7061,Cleaners of Vehicles and Equipment
+94119,그 외 청소원,Cleaners n.e.c.,0.739514168,53-7061,Cleaners of Vehicles and Equipment
+94121,쓰레기 수거원,Garbage Collectors,0.624262244,53-7081,Refuse and Recyclable Material Collectors
+94122,거리 미화원,Street Sweepers,0.672276485,53-6021,Parking Attendants
+94123,재활용품 수거원,Recyclables Collectors,0.865798129,53-7081,Refuse and Recyclable Material Collectors
+94129,그 외 환경미화원 및 재활용품 수거원,Street Sweepers and Recyclables Collectors n.e.c.,0.758471821,53-7081,Refuse and Recyclable Material Collectors
+94211,아파트 경비원,Apartment Concierges and Guards,0.687053511,33-9032,Security Guards
+94212,건물 경비원,Building Concierges and Guards,0.657785379,33-9032,Security Guards
+94219,그 외 건물 관리원,Building Concierges n.e.c.,0.652864423,39-6012,Concierges
+94220,검표원,Ticket Examiners,0.685824867,53-6051,Transportation Inspectors
+95110,가사 도우미,Domestic Chores Helpers,0.652280421,37-2012,Maids and Housekeeping Cleaners
+95120,육아 도우미,Infant Rearing Helpers,0.457147448,11-9031,"Education and Childcare Administrators, Preschool and Daycare"
+95210,패스트푸드 준비원,Fast-food Restaurant Workers,0.87938491,35-3023,Fast Food and Counter Workers
+95220,주방 보조원,Kitchen Helpers,0.636956888,35-2021,Food Preparation Workers
+95310,주유원,Gas Station Attendants,0.798623697,53-6021,Parking Attendants
+95391,매장 정리원,Store Attendants,0.775762436,41-2011,Cashiers
+95392,전단지 배포원 및 벽보원,Wall Poster and Print-out Distributors,0.490322265,41-3011,Advertising Sales Agents
+95399,그 외 판매 관련 단순 종사원,Sales Related Elementary Workers n.e.c.,0.699678332,41-9099,"Sales and Related Workers, All Other"
+99101,농업 단순 종사원,Agriculture Laborers,0.835160921,45-2099,"Agricultural Workers, All Other"
+99102,임업 단순 종사원,Forestry Laborers,0.771475189,45-4011,Forest and Conservation Workers
+99103,어업 단순 종사원,Fishery Laborers,0.761539165,45-3031,Fishing and Hunting Workers
+99104,산불 감시원,Forest Fire Watchmen,0.802779781,33-2022,Forest Fire Inspectors and Prevention Specialists
+99211,계기 검침원,Gauge Readers,0.538913545,43-5041,"Meter Readers, Utilities"
+99212,가스 점검원,Gas Inspectors,0.742801991,51-8092,Gas Plant Operators
+99220,자동판매기 관리원,Vending Machine Operators,0.682590924,49-9091,"Coin, Vending, and Amusement Machine Servicers and Repairers"
+99231,주차 관리원,Parking Service Workers,0.916101892,33-3041,Parking Enforcement Workers
+99232,주차 안내원,Parking Attendants,1,53-6021,Parking Attendants
+99910,구두 미화원,Shoe Cleaners,0.582570537,51-6041,Shoe and Leather Workers and Repairers
+99920,세탁원 및 다림질원,Laundry and Ironing Workers,0.878358722,51-6011,Laundry and Dry-Cleaning Workers
+99991,환경 감시원,Environmental Pollution Watchmen,0.579484973,17-2081,Environmental Engineers
+99992,대여 제품 방문 점검원,Door-to-door Rental Equipment Examiners,0.581794641,53-7061,Cleaners of Vehicles and Equipment
+99999,그 외 서비스 관련 단순 종사원,Service Related Elementary Workers n.e.c.,0.645566215,25-2056,"Special Education Teachers, Elementary School"
